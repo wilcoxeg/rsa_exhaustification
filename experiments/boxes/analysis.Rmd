@@ -1,0 +1,402 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(brms)
+library(lme4)
+library(lmerTest)
+library(plotrix)
+library(stringr)
+library(readxl)
+library(rpart)
+library(Hmisc)
+library(Metrics)
+library(RColorBrewer)
+library(scales)
+
+
+```
+
+
+# Priors
+
+Read in the prior gathering experimental data and plot the priors for the chair and the footstool
+
+```{r}
+d = read.csv("./data/priors_nonmodal.csv", comment = "#", header=F, col.names = 
+                      c("time", "participant", "controller", "item", "element", "type", "group", "field_name", "field_value"))
+
+d = d %>%
+  select(-controller, -item, -element, -group) %>%
+  filter(field_name != "_REACTION_TIME_") %>%
+  group_by(time, participant) %>%
+    mutate(condition = type[type=="chair" | type=="footstool"]) %>%
+  ungroup() %>%
+  select(-type) %>%
+  spread(field_name, field_value) %>%
+  filter(q1 == "Sam" & q2 == "green" & nativeq == "yes") %>%
+  select(-q1, -q2, -nativeq) %>%
+  mutate(input = if_else(input == "yes", 1, 0)) %>%
+  distinct(participant, .keep_all = T)
+
+d %>%
+  group_by(condition) %>%
+    summarise(m = mean(input),
+              upper = binconf(sum(input), n())[2],
+              lower = binconf(sum(input), n())[3],
+              n=n()) %>%
+  ungroup() %>%
+  ggplot(aes(x=condition, y=m, ymax=upper, ymin=lower, color=condition)) +
+    geom_point(stat="identity", position="dodge", size=10) +
+    geom_errorbar(width=.1, alpha=1, size=1) +
+    ylab("Proportion of Yes Responses") +
+    xlab("Condition") +
+    ggtitle("Priors on Conditional Probability") +
+    theme(legend.position = 'none',
+          axis.text=element_text(size=20),
+          title=element_text(size=20),
+          legend.text=element_text(size=20),
+          axis.title=element_text(size=20),
+          strip.text.x = element_text(size = 20))
+#ggsave("./images/priors.png", width = 4, height = 7)
+
+```
+
+## Statistics
+
+Statistical test: are the priors different in the two conditions?
+
+```{r}
+d_stat = d %>%
+  group_by(condition) %>%
+    summarise(success = sum(input),
+              n = n())%>%
+  ungroup()
+
+a_success = as.numeric(d_stat[1,"success"])
+a_n = as.numeric(d_stat[1,"n"])
+a_fail = a_n - a_success
+
+b_success = as.numeric(d_stat[2,"success"])
+b_n = as.numeric(d_stat[2,"n"])
+b_fail = b_n - b_success
+
+fisher.test(matrix(c(a_success, b_success, a_fail, b_fail), nrow = 2))
+```
+
+# Elicitation Experiment
+
+Read in the elicitation data and plot the results
+
+```{r}
+d = read.csv("./data/elicitation.csv", comment = "#", header=F, col.names = 
+                      c("time", "participant", "controller", "item", "element", "type", "group", "field_name", "field_value"))
+
+d_elicit = d %>%
+  select(-controller, -item, -element, -group) %>%
+  filter(field_name != "_REACTION_TIME_") %>%
+  group_by(time, participant) %>%
+    mutate(condition = type[1]) %>%
+  ungroup() %>%
+  select(-type) %>%
+  spread(field_name, field_value) %>%
+  #filter(q1 == "Alex" & q2 == "green" & nativeq == "yes") %>%
+  select(-q1, -q2, -nativeq) %>%
+  drop_na() %>%
+  mutate(input = as.character(input)) %>%
+  mutate(input = if_else((input == "onlyfootstool" | input == "onlychair"), "exhaustified", input)) %>%
+  mutate(input = if_else((input == "footstool" | input == "chair"), "bare", input)) %>%
+  separate(condition, sep="-", into=c("world_state", "conditional_prob")) %>%
+  mutate(input = as.factor(input)) %>%
+  distinct(participant, .keep_all = T) %>%
+  mutate(condition = paste(world_state, conditional_prob, sep = "_")) %>%
+  mutate(condition = if_else(startsWith(condition, "both"), "both", condition)) %>%
+  select(-world_state, -conditional_prob)
+
+d_elicit %>%
+  group_by(condition) %>%
+    mutate(n_in_cond = n()) %>%
+  ungroup() %>%
+  group_by(condition, input) %>%
+    summarise(m = n()/n_in_cond[1],
+              se = sqrt(((n()/n_in_cond[1]) * (1-(n()/n_in_cond[1])))/n_in_cond[1]),
+              upper = m+1.96*se,
+              lower = m-1.96*se,
+              n=n()) %>%
+  ungroup() %>%
+  ggplot(aes(x=condition, y=m, ymax=upper, ymin=pmax(lower, 0), fill=input)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9), alpha=0.7) +
+    ylab("Proportion of Responses") +
+    xlab("World State") +
+    ggtitle("Elicitation Experiment") +
+    scale_x_discrete(labels= c("both\nChair&Footstool", "Single, High\nFootstool", "Single Low\nChair")) +
+    theme(legend.position = 'bottom',
+          axis.text=element_text(size=14),
+          title=element_text(size=14),
+          legend.text=element_text(size=14),
+          axis.title=element_text(size=14),
+          strip.text.x = element_text(size = 14))
+#ggsave("./data/elicitation.png", width = 7, height = 7)
+```
+
+# Interpretation Experiment
+
+Read in the interpretation data and plot the results
+
+```{r}
+d = read.csv("./data/interpretation.csv", comment = "#", header=F, col.names = 
+                      c("time", "participant", "controller", "item", "element", "type", "group", "field_name", "field_value"))
+
+d_interpret = d %>%
+  select(-controller, -item, -element, -group) %>%
+  filter(field_name != "_REACTION_TIME_") %>%
+  filter(field_name != "input") %>% #Due to dummy data that I had previously populated the database with. Just filter this out.
+  group_by(time, participant) %>%
+    mutate(condition = type[1]) %>%
+  ungroup() %>%
+  select(-type) %>%
+  spread(field_name, field_value) %>%
+  #filter(q1 == "Alex" & q2 == "green" & nativeq == "yes") %>%
+  select(-q1, -q2, -nativeq) %>%
+  drop_na() %>%
+  mutate(input = if_else(input1=="yes" & input2=="yes", 1, 0)) %>%
+  mutate(chair = if_else(input1=="yes" & input2=="no", 1, 0)) %>%
+  mutate(footstool = if_else(input1=="no" & input2=="yes", 1, 0)) %>%
+  mutate(none = if_else(input1=="no" & input2=="no", 1, 0)) %>%
+  separate(condition, sep="_", into=c("utterance", "conditional_prob", "modal")) %>%
+  select(-input1, -input2) %>%
+  distinct(participant, .keep_all = T)
+
+d_interpret %>%
+  filter(modal=="nomodal") %>%
+  group_by(utterance, conditional_prob, modal) %>%
+    summarise(m = mean(input),
+              upper = binconf(sum(input), n())[2],
+              lower = binconf(sum(input), n())[3],
+              n=n()) %>%
+  ungroup() %>%
+  ggplot(aes(x=utterance, y=m, ymax=upper, ymin=lower, color=conditional_prob)) +
+    geom_point(stat="identity", position="dodge", size=4) +
+    geom_errorbar(width=.1, alpha=1) +
+    ylab("Proportion of endorsement of A&B") +
+    xlab("Utterance Type") +
+    ggtitle("Interpretation Experiment") +
+    #facet_wrap(~modal) +
+    theme(legend.position = 'bottom',
+          axis.text=element_text(size=14),
+          title=element_text(size=14),
+          legend.text=element_text(size=14),
+          axis.title=element_text(size=14),
+          strip.text.x = element_text(size = 14))
+#ggsave("interpretation.png", width= 3, height = 5 )
+```
+
+
+
+# RSA Model
+
+'fit_results_nonmodal.csv' -- each row is a model run. The alpha, difference between cost 1 and cost 2 ("diff"), and the fit to the human data are recorded. This plot shows the goodness of fit as a funciton of alpha and diff, for the listener.
+
+```{r}
+d = read.csv("./modeling/fit_results_nonmodal.csv")
+
+d = d %>%
+  mutate(diff = c2-c1) %>%
+  filter(diff >= 0)
+
+d %>%
+  ggplot(aes(x=diff, y=alpha, fill=lstnr_mse, color=lstnr_mse)) +
+    geom_tile(width=1, height=1) +
+    scale_fill_gradient2(low = "red", mid = "white", high = "blue", midpoint = 0.4, limit = c(0,0.8)) +
+    scale_color_gradient2(low = "red", mid = "white", high = "blue", midpoint = 0.4, limit = c(0,0.8)) +
+    theme_bw()
+```
+
+This plot shows the goodness of fit as a funciton of alpha and diff, for the speaker.
+
+```{r}
+d %>%
+  ggplot(aes(x=diff, y=alpha, fill=spkr_mse)) +
+    geom_tile(width=1, height=1) +
+    scale_fill_gradient2(low = "red", mid = "white", high = "blue", midpoint = 0.3, limit = c(0.08,0.5)) +
+    theme_bw()
+```
+
+This plot shows the goodness of fit as a funciton of alpha and diff, for both the listener and the speaker.
+
+```{r}
+d %>%
+  ggplot(aes(x=diff, y=alpha, fill=lstnr_spkr_mse, colour=lstnr_spkr_mse)) +
+    geom_tile(width=1, height=1) +
+    scale_color_gradient2(low = "red", mid = "white", high = "blue", midpoint = 0.35, limit = c(0,0.55)) +
+    scale_fill_gradient2(low = "red", mid = "white", high = "blue", midpoint = 0.35, limit = c(0,0.55)) +
+    theme_bw()
+```
+
+# Plot model results + human results
+
+## Interpretation Experiment
+
+Plot the best fits for the "Free" and "Fixed" fit models, as well as the human data. This graph is for the interpretation experiment.
+
+```{r}
+d_rank = d %>%
+  arrange(lstnr_mse)
+free_fit = d_rank[1,4:5]
+free_fit$model = "Free Fit"
+free_fit$exhaust.low = 0
+free_fit$exhaust.high = 0
+free_fit$both.low = 1
+free_fit$both.high = 1
+
+d_rank = d %>%
+  filter(c2 <= 2 * c1) %>%
+  arrange(lstnr_mse)
+fixed_fit = d_rank[1,4:5]
+fixed_fit$model = "Fixed Fit"
+fixed_fit$both.low = 1
+fixed_fit$both.high = 1
+fixed_fit$exhaust.low = 0
+fixed_fit$exhaust.high = 0
+
+model_res = rbind(fixed_fit, free_fit) %>%
+  gather(utterance,m,c(lstnr.low,lstnr.high, both.low, both.high, exhaust.low, exhaust.high)) %>%
+  separate(utterance, c("utterance","conditional_prob"), sep="\\.") %>%
+  mutate(utterance=if_else(utterance=="lstnr", "single", utterance)) %>%
+  mutate(upper = m,
+         lower = m,
+         n=m)
+  
+d_interpret_model = d_interpret %>%
+  filter(modal=="nomodal") %>%
+  group_by(utterance, conditional_prob, modal) %>%
+    summarise(m = mean(input),
+              upper = binconf(sum(input), n())[2],
+              lower = binconf(sum(input), n())[3],
+              n=n()) %>%
+  ungroup() %>%
+  mutate(model = "Human") %>%
+  select(-modal)
+
+d_interpret_model = rbind(d_interpret_model, model_res)
+
+d_interpret_model %>%
+  ggplot(aes(x=utterance, y=m, ymax=upper, ymin=lower, color=model, shape=model)) +
+    geom_point(stat="identity", position = position_dodge(width = 0.5), size=5) +
+    geom_errorbar(width=.1, alpha=1, position = position_dodge(width = 0.5)) +
+    ylab("Proportion of endorsement of A&B") +
+    xlab("Utterance Type") +
+    ggtitle("Interpretation Experiment w/ Model Fit") +
+    scale_color_manual(values=c("turquoise3", "steelblue", "tomato")) +
+    facet_wrap(~conditional_prob) +
+    theme(legend.position = 'bottom',
+          axis.text=element_text(size=14),
+          title=element_text(size=14),
+          legend.text=element_text(size=14),
+          axis.title=element_text(size=14),
+          strip.text.x = element_text(size = 14))
+#ggsave("./images/listener_fit.png", width= 7, height = 5)
+```
+
+## Elicitation Experiment
+
+Plot the best fits for the "Free" and "Fixed" fit models, as well as the human data. This graph is for the elicitation experiment.
+
+
+```{r}
+d_rank = d %>%
+  arrange(lstnr_spkr_mse)
+free_fit = d_rank[1,6:14]
+free_fit$model = "Free Fit"
+
+d_rank = d %>%
+  filter(c2 <= 2 * c1) %>%
+  arrange(lstnr_mse)
+fixed_fit = d_rank[1,6:14]
+fixed_fit$model = "Fixed Fit"
+
+model_res = rbind(fixed_fit, free_fit) %>%
+  gather(utterance,m,c(AB.both, AB.bare, AB.exhaust, A.both, A.bare, A.exhaust, B.both, B.bare, B.exhaust)) %>%
+  separate(utterance, c("condition","input"), sep="\\.") %>%
+  mutate(input=if_else(input=="exhaust", "exhaustified", input)) %>%
+  mutate(condition=if_else(condition=="AB", "both", condition)) %>%
+  mutate(condition=if_else(condition=="A", "single_low", condition)) %>%
+  mutate(condition=if_else(condition=="B", "single_high", condition)) %>%
+  mutate(upper = m,
+         lower = m,
+         n=m)
+  
+
+d_elicit_model = d_elicit %>%
+  group_by(condition) %>%
+    mutate(n_in_cond = n()) %>%
+  ungroup() %>%
+  group_by(condition, input) %>%
+    summarise(m = n()/n_in_cond[1],
+              se = sqrt(((n()/n_in_cond[1]) * (1-(n()/n_in_cond[1])))/n_in_cond[1]),
+              upper = m+1.96*se,
+              lower = m-1.96*se,
+              n=n()) %>%
+  ungroup() %>%
+  mutate(model="Human") %>%
+  select(-se, -n)
+
+d_free_fit = matrix(data = c("single_low", "bare", 0.998987457, 0.998987457, 0.998987457, "Free Fit",
+                              "single_low", "both", 0.001012543, 0.001012543, 0.001012543, "Free Fit",
+                              "single_low", "exhaustified", 0.0000000, 0.0000000, 0.0000000, "Free Fit",
+                              "single_high", "bare", 0.65835066, 0.65835066, 0.65835066, "Free Fit",
+                              "single_high", "both", 0.000000000, 0.000000000, 0.000000000, "Free Fit",
+                              "single_high", "exhaustified", 0.3416493, 0.3416493, 0.3416493, "Free Fit",
+                              "both", "bare", 0.087256962, 0.087256962, 0.087256962, "Free Fit",
+                              "both", "both", 0.912743, 0.912743, 0.912743, "Free Fit",
+                              "both", "exhaustified", 0.0000000, 0.0000000, 0.0000000, "Free Fit" ), ncol=6, byrow=TRUE)
+colnames(d_free_fit) = c("condition", "input", "m", "upper", "lower", "model")
+
+d_fixed_fit = matrix(data = c("single_low", "bare", 0.5231485, 0.5231485, 0.5231485, "Fixed Fit",
+                              "single_low", "both", 0.0, 0.0, 0.0, "Fixed Fit",
+                              "single_low", "exhaustified", 0.4768515, 0.4768515, 0.4768515, "Fixed Fit",
+                              "single_high", "bare", 0.5214191, 0.5214191, 0.5214191, "Fixed Fit",
+                              "single_high", "both", 0.000000000, 0.000000000, 0.000000000, "Fixed Fit",
+                              "single_high", "exhaustified", 0.4785809, 0.4785809, 0.4785809, "Fixed Fit",
+                              "both", "bare", 0.6766693, 0.6766693, 0.6766693, "Fixed Fit",
+                              "both", "both", 0.3233307, 0.3233307, 0.3233307, "Fixed Fit",
+                              "both", "exhaustified", 0.0000000, 0.0000000, 0.0000000, "Fixed Fit" ), ncol=6, byrow=TRUE)
+colnames(d_fixed_fit) = c("condition", "input", "m", "upper", "lower", "model")
+
+d_elicit_model = d_elicit_model %>%
+  rbind(d_elicit_model, d_free_fit, d_fixed_fit) %>%
+  mutate(m=as.numeric(m),
+         upper=as.numeric(upper),
+         lower=as.numeric(lower))
+
+d_elicit_model %>%
+  ggplot(aes(x=input, y=m, ymax=upper, ymin=pmax(lower, 0), fill=model)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9), alpha=0.7) +
+    ylab("Proportion of Responses") +
+    xlab("Utterance") +
+    scale_fill_manual(values=c("turquoise3", "steelblue", "tomato")) +
+    ggtitle("Elicitation Experiment w/ Model Fit") +
+    facet_grid(~condition) +
+    theme(legend.position = 'bottom',
+          axis.text=element_text(size=14, angle=45, hjust=1),
+          title=element_text(size=14),
+          legend.text=element_text(size=14),
+          axis.title=element_text(size=14),
+          strip.text.x = element_text(size = 14))
+#ggsave("./images/elicitation_fit.png", width = 7, height = 5)
+```
+
+
+
+
+
+
+
+
+
+

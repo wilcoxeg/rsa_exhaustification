@@ -1,0 +1,3977 @@
+#
+# Results on Monday January 21 2019 16:50:36 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548089437,5612ebb599a1bb77371ddaceff573238,Form,0,0,intro,NULL,_REACTION_TIME_,1307
+1548089437,5612ebb599a1bb77371ddaceff573238,Form,4,1,single-high,1,input,onlychair
+1548089437,5612ebb599a1bb77371ddaceff573238,Form,4,1,single-high,1,_REACTION_TIME_,16551
+1548089437,5612ebb599a1bb77371ddaceff573238,Form,8,0,comprehension,NULL,q1,Sam
+1548089437,5612ebb599a1bb77371ddaceff573238,Form,8,0,comprehension,NULL,q2,green
+1548089437,5612ebb599a1bb77371ddaceff573238,Form,8,0,comprehension,NULL,_REACTION_TIME_,5101
+1548089437,5612ebb599a1bb77371ddaceff573238,Form,9,0,outro,NULL,nativeq,yes
+1548089437,5612ebb599a1bb77371ddaceff573238,Form,9,0,outro,NULL,_REACTION_TIME_,3214
+#
+# Results on Monday January 21 2019 16:51:13 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548089474,93f6ea503e12eb4650885ae1551ed8de,Form,0,0,intro,NULL,_REACTION_TIME_,9735
+1548089474,93f6ea503e12eb4650885ae1551ed8de,Form,4,1,single-high,1,input,chair
+1548089474,93f6ea503e12eb4650885ae1551ed8de,Form,4,1,single-high,1,_REACTION_TIME_,16970
+1548089474,93f6ea503e12eb4650885ae1551ed8de,Form,8,0,comprehension,NULL,q1,Sam
+1548089474,93f6ea503e12eb4650885ae1551ed8de,Form,8,0,comprehension,NULL,q2,green
+1548089474,93f6ea503e12eb4650885ae1551ed8de,Form,8,0,comprehension,NULL,_REACTION_TIME_,6701
+1548089474,93f6ea503e12eb4650885ae1551ed8de,Form,9,0,outro,NULL,nativeq,yes
+1548089474,93f6ea503e12eb4650885ae1551ed8de,Form,9,0,outro,NULL,_REACTION_TIME_,19435
+#
+# Results on Monday January 21 2019 16:53:45 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548089625,8d2c33e78dc6a1b560e990036ce12892,Form,0,0,intro,NULL,_REACTION_TIME_,5630
+1548089625,8d2c33e78dc6a1b560e990036ce12892,Form,6,1,single-low,1,input,onlyfootstool
+1548089625,8d2c33e78dc6a1b560e990036ce12892,Form,6,1,single-low,1,_REACTION_TIME_,22173
+1548089625,8d2c33e78dc6a1b560e990036ce12892,Form,8,0,comprehension,NULL,q1,Sam
+1548089625,8d2c33e78dc6a1b560e990036ce12892,Form,8,0,comprehension,NULL,q2,green
+1548089625,8d2c33e78dc6a1b560e990036ce12892,Form,8,0,comprehension,NULL,_REACTION_TIME_,16981
+1548089625,8d2c33e78dc6a1b560e990036ce12892,Form,9,0,outro,NULL,nativeq,yes
+1548089625,8d2c33e78dc6a1b560e990036ce12892,Form,9,0,outro,NULL,_REACTION_TIME_,9556
+#
+# Results on Monday January 21 2019 19:57:43 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 35
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548100664,7fce9a87481224a3a006cd4fcdb79e97,Form,0,0,intro,NULL,_REACTION_TIME_,1136
+1548100664,7fce9a87481224a3a006cd4fcdb79e97,Form,7,1,both-low,1,input,both
+1548100664,7fce9a87481224a3a006cd4fcdb79e97,Form,7,1,both-low,1,_REACTION_TIME_,16254
+1548100664,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q1,Sam
+1548100664,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q2,green
+1548100664,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,_REACTION_TIME_,2910
+1548100664,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,nativeq,no
+1548100664,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,_REACTION_TIME_,4508
+#
+# Results on Monday January 21 2019 19:58:47 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 36
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548100727,7fce9a87481224a3a006cd4fcdb79e97,Form,0,0,intro,NULL,_REACTION_TIME_,1450
+1548100727,7fce9a87481224a3a006cd4fcdb79e97,Form,4,1,single-high,1,input,chair
+1548100727,7fce9a87481224a3a006cd4fcdb79e97,Form,4,1,single-high,1,_REACTION_TIME_,4194
+1548100727,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q1,Sam
+1548100727,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q2,green
+1548100727,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,_REACTION_TIME_,2719
+1548100727,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,nativeq,no
+1548100727,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,_REACTION_TIME_,2133
+#
+# Results on Monday January 21 2019 19:59:09 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 37
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548100750,7fce9a87481224a3a006cd4fcdb79e97,Form,0,0,intro,NULL,_REACTION_TIME_,903
+1548100750,7fce9a87481224a3a006cd4fcdb79e97,Form,5,1,both-high,1,input,both
+1548100750,7fce9a87481224a3a006cd4fcdb79e97,Form,5,1,both-high,1,_REACTION_TIME_,5657
+1548100750,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q1,Sam
+1548100750,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q2,green
+1548100750,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,_REACTION_TIME_,5756
+1548100750,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,nativeq,no
+1548100750,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,_REACTION_TIME_,1966
+#
+# Results on Monday January 21 2019 19:59:26 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 38
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548100766,7fce9a87481224a3a006cd4fcdb79e97,Form,0,0,intro,NULL,_REACTION_TIME_,977
+1548100766,7fce9a87481224a3a006cd4fcdb79e97,Form,6,1,single-low,1,input,footstool
+1548100766,7fce9a87481224a3a006cd4fcdb79e97,Form,6,1,single-low,1,_REACTION_TIME_,3036
+1548100766,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q1,Sam
+1548100766,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q2,green
+1548100766,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,_REACTION_TIME_,2665
+1548100766,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,nativeq,no
+1548100766,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,_REACTION_TIME_,1762
+#
+# Results on Monday January 21 2019 19:59:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 39
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548100782,7fce9a87481224a3a006cd4fcdb79e97,Form,0,0,intro,NULL,_REACTION_TIME_,1397
+1548100782,7fce9a87481224a3a006cd4fcdb79e97,Form,7,1,both-low,1,input,both
+1548100782,7fce9a87481224a3a006cd4fcdb79e97,Form,7,1,both-low,1,_REACTION_TIME_,3148
+1548100782,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q1,Sam
+1548100782,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q2,green
+1548100782,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,_REACTION_TIME_,3047
+1548100782,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,nativeq,no
+1548100782,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,_REACTION_TIME_,1661
+#
+# Results on Monday January 21 2019 19:59:57 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 40
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548100798,7fce9a87481224a3a006cd4fcdb79e97,Form,0,0,intro,NULL,_REACTION_TIME_,1366
+1548100798,7fce9a87481224a3a006cd4fcdb79e97,Form,4,1,single-high,1,input,onlychair
+1548100798,7fce9a87481224a3a006cd4fcdb79e97,Form,4,1,single-high,1,_REACTION_TIME_,3743
+1548100798,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q1,Sam
+1548100798,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,q2,green
+1548100798,7fce9a87481224a3a006cd4fcdb79e97,Form,8,0,comprehension,NULL,_REACTION_TIME_,2562
+1548100798,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,nativeq,no
+1548100798,7fce9a87481224a3a006cd4fcdb79e97,Form,9,0,outro,NULL,_REACTION_TIME_,1650
+#
+# Results on Monday January 21 2019 21:15:19 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 41
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548105320,9b6abe3d948cece21e5bd6eff91e745c,Form,0,0,intro,NULL,_REACTION_TIME_,4220
+1548105320,9b6abe3d948cece21e5bd6eff91e745c,Form,5,1,both-high,1,input,both
+1548105320,9b6abe3d948cece21e5bd6eff91e745c,Form,5,1,both-high,1,_REACTION_TIME_,10973
+1548105320,9b6abe3d948cece21e5bd6eff91e745c,Form,8,0,comprehension,NULL,q1,Alex
+1548105320,9b6abe3d948cece21e5bd6eff91e745c,Form,8,0,comprehension,NULL,q2,green
+1548105320,9b6abe3d948cece21e5bd6eff91e745c,Form,8,0,comprehension,NULL,_REACTION_TIME_,6119
+1548105320,9b6abe3d948cece21e5bd6eff91e745c,Form,9,0,outro,NULL,nativeq,yes
+1548105320,9b6abe3d948cece21e5bd6eff91e745c,Form,9,0,outro,NULL,_REACTION_TIME_,8647
+#
+# Results on Monday January 21 2019 21:23:54 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548105834,93bd4cac4ebb231ed10d6db33f41c87b,Form,0,0,intro,NULL,_REACTION_TIME_,4745
+1548105834,93bd4cac4ebb231ed10d6db33f41c87b,Form,6,1,single-low,1,input,onlychair
+1548105834,93bd4cac4ebb231ed10d6db33f41c87b,Form,6,1,single-low,1,_REACTION_TIME_,8177
+1548105834,93bd4cac4ebb231ed10d6db33f41c87b,Form,8,0,comprehension,NULL,q1,Sam
+1548105834,93bd4cac4ebb231ed10d6db33f41c87b,Form,8,0,comprehension,NULL,q2,green
+1548105834,93bd4cac4ebb231ed10d6db33f41c87b,Form,8,0,comprehension,NULL,_REACTION_TIME_,4355
+1548105834,93bd4cac4ebb231ed10d6db33f41c87b,Form,9,0,outro,NULL,nativeq,yes
+1548105834,93bd4cac4ebb231ed10d6db33f41c87b,Form,9,0,outro,NULL,_REACTION_TIME_,5553
+#
+# Results on Monday January 21 2019 21:24:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548105856,c5078a141b14bd43c79ab9934a5fb18d,Form,0,0,intro,NULL,_REACTION_TIME_,1681
+1548105856,c5078a141b14bd43c79ab9934a5fb18d,Form,6,1,single-low,1,input,onlyfootstool
+1548105856,c5078a141b14bd43c79ab9934a5fb18d,Form,6,1,single-low,1,_REACTION_TIME_,11413
+1548105856,c5078a141b14bd43c79ab9934a5fb18d,Form,8,0,comprehension,NULL,q1,Alex
+1548105856,c5078a141b14bd43c79ab9934a5fb18d,Form,8,0,comprehension,NULL,q2,green
+1548105856,c5078a141b14bd43c79ab9934a5fb18d,Form,8,0,comprehension,NULL,_REACTION_TIME_,7534
+1548105856,c5078a141b14bd43c79ab9934a5fb18d,Form,9,0,outro,NULL,nativeq,yes
+1548105856,c5078a141b14bd43c79ab9934a5fb18d,Form,9,0,outro,NULL,_REACTION_TIME_,11585
+#
+# Results on Monday January 21 2019 21:24:43 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548105884,83fabe193d0118272ec57c8681b70a10,Form,0,0,intro,NULL,_REACTION_TIME_,5563
+1548105884,83fabe193d0118272ec57c8681b70a10,Form,6,1,single-low,1,input,both
+1548105884,83fabe193d0118272ec57c8681b70a10,Form,6,1,single-low,1,_REACTION_TIME_,30061
+1548105884,83fabe193d0118272ec57c8681b70a10,Form,8,0,comprehension,NULL,q1,Alex
+1548105884,83fabe193d0118272ec57c8681b70a10,Form,8,0,comprehension,NULL,q2,green
+1548105884,83fabe193d0118272ec57c8681b70a10,Form,8,0,comprehension,NULL,_REACTION_TIME_,10733
+1548105884,83fabe193d0118272ec57c8681b70a10,Form,9,0,outro,NULL,nativeq,yes
+1548105884,83fabe193d0118272ec57c8681b70a10,Form,9,0,outro,NULL,_REACTION_TIME_,8623
+#
+# Results on Monday January 21 2019 21:25:23 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548105924,c0c8ccc53b617e17eda0e0479d7f452b,Form,0,0,intro,NULL,_REACTION_TIME_,4377
+1548105924,c0c8ccc53b617e17eda0e0479d7f452b,Form,6,1,single-low,1,input,footstool
+1548105924,c0c8ccc53b617e17eda0e0479d7f452b,Form,6,1,single-low,1,_REACTION_TIME_,48415
+1548105924,c0c8ccc53b617e17eda0e0479d7f452b,Form,8,0,comprehension,NULL,q1,Alex
+1548105924,c0c8ccc53b617e17eda0e0479d7f452b,Form,8,0,comprehension,NULL,q2,green
+1548105924,c0c8ccc53b617e17eda0e0479d7f452b,Form,8,0,comprehension,NULL,_REACTION_TIME_,28941
+1548105924,c0c8ccc53b617e17eda0e0479d7f452b,Form,9,0,outro,NULL,nativeq,yes
+1548105924,c0c8ccc53b617e17eda0e0479d7f452b,Form,9,0,outro,NULL,_REACTION_TIME_,13357
+#
+# Results on Monday January 21 2019 21:26:29 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 46
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548105989,851d8cd21bc53028bf6ad79d2723a767,Form,0,0,intro,NULL,_REACTION_TIME_,3892
+1548105989,851d8cd21bc53028bf6ad79d2723a767,Form,6,1,single-low,1,input,footstool
+1548105989,851d8cd21bc53028bf6ad79d2723a767,Form,6,1,single-low,1,_REACTION_TIME_,9653
+1548105989,851d8cd21bc53028bf6ad79d2723a767,Form,8,0,comprehension,NULL,q1,Alex
+1548105989,851d8cd21bc53028bf6ad79d2723a767,Form,8,0,comprehension,NULL,q2,tan
+1548105989,851d8cd21bc53028bf6ad79d2723a767,Form,8,0,comprehension,NULL,_REACTION_TIME_,5677
+1548105989,851d8cd21bc53028bf6ad79d2723a767,Form,9,0,outro,NULL,nativeq,yes
+1548105989,851d8cd21bc53028bf6ad79d2723a767,Form,9,0,outro,NULL,_REACTION_TIME_,2931
+#
+# Results on Monday January 21 2019 21:31:51 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 47
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548106311,d4edb49b79a7264e9bef04a9c5ee57b0,Form,0,0,intro,NULL,_REACTION_TIME_,2505
+1548106311,d4edb49b79a7264e9bef04a9c5ee57b0,Form,7,1,both-low,1,input,both
+1548106311,d4edb49b79a7264e9bef04a9c5ee57b0,Form,7,1,both-low,1,_REACTION_TIME_,11213
+1548106311,d4edb49b79a7264e9bef04a9c5ee57b0,Form,8,0,comprehension,NULL,q1,Alex
+1548106311,d4edb49b79a7264e9bef04a9c5ee57b0,Form,8,0,comprehension,NULL,q2,green
+1548106311,d4edb49b79a7264e9bef04a9c5ee57b0,Form,8,0,comprehension,NULL,_REACTION_TIME_,7254
+1548106311,d4edb49b79a7264e9bef04a9c5ee57b0,Form,9,0,outro,NULL,nativeq,yes
+1548106311,d4edb49b79a7264e9bef04a9c5ee57b0,Form,9,0,outro,NULL,_REACTION_TIME_,4973
+#
+# Results on Monday January 21 2019 21:32:32 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 47
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548106353,3fa939eaf4d8842c249f77e4a5acbd26,Form,0,0,intro,NULL,_REACTION_TIME_,8654
+1548106353,3fa939eaf4d8842c249f77e4a5acbd26,Form,7,1,both-low,1,input,both
+1548106353,3fa939eaf4d8842c249f77e4a5acbd26,Form,7,1,both-low,1,_REACTION_TIME_,16956
+1548106353,3fa939eaf4d8842c249f77e4a5acbd26,Form,8,0,comprehension,NULL,q1,Alex
+1548106353,3fa939eaf4d8842c249f77e4a5acbd26,Form,8,0,comprehension,NULL,q2,green
+1548106353,3fa939eaf4d8842c249f77e4a5acbd26,Form,8,0,comprehension,NULL,_REACTION_TIME_,8729
+1548106353,3fa939eaf4d8842c249f77e4a5acbd26,Form,9,0,outro,NULL,nativeq,yes
+1548106353,3fa939eaf4d8842c249f77e4a5acbd26,Form,9,0,outro,NULL,_REACTION_TIME_,10158
+#
+# Results on Monday January 21 2019 21:32:56 UTC.
+# USER AGENT: Mozilla/5.0 (X11; CrOS x86_64 11316.82.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.59 Safari/537.36
+# Design number was non-random = 48
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548106376,50218ce4900340a6d13a6052d875fa85,Form,0,0,intro,NULL,_REACTION_TIME_,4875
+1548106376,50218ce4900340a6d13a6052d875fa85,Form,4,1,single-high,1,input,chair
+1548106376,50218ce4900340a6d13a6052d875fa85,Form,4,1,single-high,1,_REACTION_TIME_,10337
+1548106376,50218ce4900340a6d13a6052d875fa85,Form,8,0,comprehension,NULL,q1,Alex
+1548106376,50218ce4900340a6d13a6052d875fa85,Form,8,0,comprehension,NULL,q2,green
+1548106376,50218ce4900340a6d13a6052d875fa85,Form,8,0,comprehension,NULL,_REACTION_TIME_,5615
+1548106376,50218ce4900340a6d13a6052d875fa85,Form,9,0,outro,NULL,nativeq,yes
+1548106376,50218ce4900340a6d13a6052d875fa85,Form,9,0,outro,NULL,_REACTION_TIME_,13250
+#
+# Results on Monday January 21 2019 21:33:31 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 49
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548106411,dde92daab4edd477a04fd42aa25ba43c,Form,0,0,intro,NULL,_REACTION_TIME_,2864
+1548106411,dde92daab4edd477a04fd42aa25ba43c,Form,5,1,both-high,1,input,chair
+1548106411,dde92daab4edd477a04fd42aa25ba43c,Form,5,1,both-high,1,_REACTION_TIME_,8030
+1548106411,dde92daab4edd477a04fd42aa25ba43c,Form,8,0,comprehension,NULL,q1,Alex
+1548106411,dde92daab4edd477a04fd42aa25ba43c,Form,8,0,comprehension,NULL,q2,green
+1548106411,dde92daab4edd477a04fd42aa25ba43c,Form,8,0,comprehension,NULL,_REACTION_TIME_,6566
+1548106411,dde92daab4edd477a04fd42aa25ba43c,Form,9,0,outro,NULL,nativeq,yes
+1548106411,dde92daab4edd477a04fd42aa25ba43c,Form,9,0,outro,NULL,_REACTION_TIME_,3768
+#
+# Results on Monday January 21 2019 21:37:47 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 51
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548106668,cf6d98054dca513448c307739d0ac25b,Form,0,0,intro,NULL,_REACTION_TIME_,12350
+1548106668,cf6d98054dca513448c307739d0ac25b,Form,7,1,both-low,1,input,both
+1548106668,cf6d98054dca513448c307739d0ac25b,Form,7,1,both-low,1,_REACTION_TIME_,18430
+1548106668,cf6d98054dca513448c307739d0ac25b,Form,8,0,comprehension,NULL,q1,Alex
+1548106668,cf6d98054dca513448c307739d0ac25b,Form,8,0,comprehension,NULL,q2,green
+1548106668,cf6d98054dca513448c307739d0ac25b,Form,8,0,comprehension,NULL,_REACTION_TIME_,7479
+1548106668,cf6d98054dca513448c307739d0ac25b,Form,9,0,outro,NULL,nativeq,yes
+1548106668,cf6d98054dca513448c307739d0ac25b,Form,9,0,outro,NULL,_REACTION_TIME_,17774
+#
+# Results on Monday January 21 2019 21:41:31 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+# Design number was non-random = 52
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548106892,59c77793c1d1d647f474a388493b4bf6,Form,0,0,intro,NULL,_REACTION_TIME_,16392
+1548106892,59c77793c1d1d647f474a388493b4bf6,Form,4,1,single-high,1,input,onlychair
+1548106892,59c77793c1d1d647f474a388493b4bf6,Form,4,1,single-high,1,_REACTION_TIME_,13974
+1548106892,59c77793c1d1d647f474a388493b4bf6,Form,8,0,comprehension,NULL,q1,Alex
+1548106892,59c77793c1d1d647f474a388493b4bf6,Form,8,0,comprehension,NULL,q2,green
+1548106892,59c77793c1d1d647f474a388493b4bf6,Form,8,0,comprehension,NULL,_REACTION_TIME_,8948
+1548106892,59c77793c1d1d647f474a388493b4bf6,Form,9,0,outro,NULL,nativeq,yes
+1548106892,59c77793c1d1d647f474a388493b4bf6,Form,9,0,outro,NULL,_REACTION_TIME_,9082
+#
+# Results on Monday January 21 2019 21:42:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 52
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548106941,ddbf7fd2f124d8579ae2e79cd82c5630,Form,0,0,intro,NULL,_REACTION_TIME_,7100
+1548106941,ddbf7fd2f124d8579ae2e79cd82c5630,Form,4,1,single-high,1,input,onlychair
+1548106941,ddbf7fd2f124d8579ae2e79cd82c5630,Form,4,1,single-high,1,_REACTION_TIME_,29732
+1548106941,ddbf7fd2f124d8579ae2e79cd82c5630,Form,8,0,comprehension,NULL,q1,Alex
+1548106941,ddbf7fd2f124d8579ae2e79cd82c5630,Form,8,0,comprehension,NULL,q2,green
+1548106941,ddbf7fd2f124d8579ae2e79cd82c5630,Form,8,0,comprehension,NULL,_REACTION_TIME_,6567
+1548106941,ddbf7fd2f124d8579ae2e79cd82c5630,Form,9,0,outro,NULL,nativeq,yes
+1548106941,ddbf7fd2f124d8579ae2e79cd82c5630,Form,9,0,outro,NULL,_REACTION_TIME_,39902
+#
+# Results on Monday January 21 2019 21:54:24 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 54
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548107665,bbe87968f6acea7aedbd941bf95b1766,Form,0,0,intro,NULL,_REACTION_TIME_,5171
+1548107665,bbe87968f6acea7aedbd941bf95b1766,Form,6,1,single-low,1,input,footstool
+1548107665,bbe87968f6acea7aedbd941bf95b1766,Form,6,1,single-low,1,_REACTION_TIME_,13671
+1548107665,bbe87968f6acea7aedbd941bf95b1766,Form,8,0,comprehension,NULL,q1,Alex
+1548107665,bbe87968f6acea7aedbd941bf95b1766,Form,8,0,comprehension,NULL,q2,green
+1548107665,bbe87968f6acea7aedbd941bf95b1766,Form,8,0,comprehension,NULL,_REACTION_TIME_,6048
+1548107665,bbe87968f6acea7aedbd941bf95b1766,Form,9,0,outro,NULL,nativeq,yes
+1548107665,bbe87968f6acea7aedbd941bf95b1766,Form,9,0,outro,NULL,_REACTION_TIME_,6085
+#
+# Results on Monday January 21 2019 22:07:48 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 55
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548108469,cfc58b1af53892ebc41744604750d59c,Form,0,0,intro,NULL,_REACTION_TIME_,11894
+1548108469,cfc58b1af53892ebc41744604750d59c,Form,7,1,both-low,1,input,both
+1548108469,cfc58b1af53892ebc41744604750d59c,Form,7,1,both-low,1,_REACTION_TIME_,26420
+1548108469,cfc58b1af53892ebc41744604750d59c,Form,8,0,comprehension,NULL,q1,Alex
+1548108469,cfc58b1af53892ebc41744604750d59c,Form,8,0,comprehension,NULL,q2,green
+1548108469,cfc58b1af53892ebc41744604750d59c,Form,8,0,comprehension,NULL,_REACTION_TIME_,5865
+1548108469,cfc58b1af53892ebc41744604750d59c,Form,9,0,outro,NULL,nativeq,yes
+1548108469,cfc58b1af53892ebc41744604750d59c,Form,9,0,outro,NULL,_REACTION_TIME_,13503
+#
+# Results on Monday January 21 2019 22:07:56 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 55
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548108477,d7a32aa254c7337d5111bf29a90444c1,Form,0,0,intro,NULL,_REACTION_TIME_,3646
+1548108477,d7a32aa254c7337d5111bf29a90444c1,Form,7,1,both-low,1,input,both
+1548108477,d7a32aa254c7337d5111bf29a90444c1,Form,7,1,both-low,1,_REACTION_TIME_,9616
+1548108477,d7a32aa254c7337d5111bf29a90444c1,Form,8,0,comprehension,NULL,q1,Sam
+1548108477,d7a32aa254c7337d5111bf29a90444c1,Form,8,0,comprehension,NULL,q2,tan
+1548108477,d7a32aa254c7337d5111bf29a90444c1,Form,8,0,comprehension,NULL,_REACTION_TIME_,8339
+1548108477,d7a32aa254c7337d5111bf29a90444c1,Form,9,0,outro,NULL,nativeq,yes
+1548108477,d7a32aa254c7337d5111bf29a90444c1,Form,9,0,outro,NULL,_REACTION_TIME_,3048
+#
+# Results on Monday January 21 2019 22:42:23 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 57
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548110544,3dfb24b5da236b264dc56b33c14d6196,Form,0,0,intro,NULL,_REACTION_TIME_,3696
+1548110544,3dfb24b5da236b264dc56b33c14d6196,Form,5,1,both-high,1,input,both
+1548110544,3dfb24b5da236b264dc56b33c14d6196,Form,5,1,both-high,1,_REACTION_TIME_,12120
+1548110544,3dfb24b5da236b264dc56b33c14d6196,Form,8,0,comprehension,NULL,q1,Alex
+1548110544,3dfb24b5da236b264dc56b33c14d6196,Form,8,0,comprehension,NULL,q2,green
+1548110544,3dfb24b5da236b264dc56b33c14d6196,Form,8,0,comprehension,NULL,_REACTION_TIME_,5177
+1548110544,3dfb24b5da236b264dc56b33c14d6196,Form,9,0,outro,NULL,_REACTION_TIME_,89
+#
+# Results on Monday January 21 2019 23:15:36 UTC.
+# USER AGENT: Mozilla/5.0 (X11; CrOS x86_64 11151.113.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.127 Safari/537.36
+# Design number was non-random = 58
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548112537,efc5c7622201234c2e2cca9f9c191e0c,Form,0,0,intro,NULL,_REACTION_TIME_,7762
+1548112537,efc5c7622201234c2e2cca9f9c191e0c,Form,6,1,single-low,1,input,onlyfootstool
+1548112537,efc5c7622201234c2e2cca9f9c191e0c,Form,6,1,single-low,1,_REACTION_TIME_,21497
+1548112537,efc5c7622201234c2e2cca9f9c191e0c,Form,8,0,comprehension,NULL,q1,Alex
+1548112537,efc5c7622201234c2e2cca9f9c191e0c,Form,8,0,comprehension,NULL,q2,tan
+1548112537,efc5c7622201234c2e2cca9f9c191e0c,Form,8,0,comprehension,NULL,_REACTION_TIME_,11717
+1548112537,efc5c7622201234c2e2cca9f9c191e0c,Form,9,0,outro,NULL,nativeq,yes
+1548112537,efc5c7622201234c2e2cca9f9c191e0c,Form,9,0,outro,NULL,_REACTION_TIME_,5843
+#
+# Results on Monday January 21 2019 23:39:43 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 59
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548113983,539d58912a83cd59538a4113eb0914bf,Form,0,0,intro,NULL,_REACTION_TIME_,4130
+1548113983,539d58912a83cd59538a4113eb0914bf,Form,7,1,both-low,1,input,both
+1548113983,539d58912a83cd59538a4113eb0914bf,Form,7,1,both-low,1,_REACTION_TIME_,8106
+1548113983,539d58912a83cd59538a4113eb0914bf,Form,8,0,comprehension,NULL,q1,Alex
+1548113983,539d58912a83cd59538a4113eb0914bf,Form,8,0,comprehension,NULL,q2,green
+1548113983,539d58912a83cd59538a4113eb0914bf,Form,8,0,comprehension,NULL,_REACTION_TIME_,5819
+1548113983,539d58912a83cd59538a4113eb0914bf,Form,9,0,outro,NULL,nativeq,yes
+1548113983,539d58912a83cd59538a4113eb0914bf,Form,9,0,outro,NULL,_REACTION_TIME_,7475
+#
+# Results on Tuesday January 22 2019 00:02:20 UTC.
+# USER AGENT: Mozilla/5.0 (X11; CrOS x86_64 11151.59.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.94 Safari/537.36
+# Design number was non-random = 60
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548115340,1d53dcb355053344445706e1f4a90b05,Form,0,0,intro,NULL,_REACTION_TIME_,2453
+1548115340,1d53dcb355053344445706e1f4a90b05,Form,4,1,single-high,1,input,chair
+1548115340,1d53dcb355053344445706e1f4a90b05,Form,4,1,single-high,1,_REACTION_TIME_,4165
+1548115340,1d53dcb355053344445706e1f4a90b05,Form,8,0,comprehension,NULL,q1,Alex
+1548115340,1d53dcb355053344445706e1f4a90b05,Form,8,0,comprehension,NULL,q2,green
+1548115340,1d53dcb355053344445706e1f4a90b05,Form,8,0,comprehension,NULL,_REACTION_TIME_,3756
+1548115340,1d53dcb355053344445706e1f4a90b05,Form,9,0,outro,NULL,nativeq,yes
+1548115340,1d53dcb355053344445706e1f4a90b05,Form,9,0,outro,NULL,_REACTION_TIME_,11906
+#
+# Results on Tuesday January 22 2019 00:04:47 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 61
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548115488,1bee33683ef230b50a9cc880643644f7,Form,0,0,intro,NULL,_REACTION_TIME_,5011
+1548115488,1bee33683ef230b50a9cc880643644f7,Form,5,1,both-high,1,input,both
+1548115488,1bee33683ef230b50a9cc880643644f7,Form,5,1,both-high,1,_REACTION_TIME_,11234
+1548115488,1bee33683ef230b50a9cc880643644f7,Form,8,0,comprehension,NULL,q1,Alex
+1548115488,1bee33683ef230b50a9cc880643644f7,Form,8,0,comprehension,NULL,q2,green
+1548115488,1bee33683ef230b50a9cc880643644f7,Form,8,0,comprehension,NULL,_REACTION_TIME_,10634
+1548115488,1bee33683ef230b50a9cc880643644f7,Form,9,0,outro,NULL,nativeq,yes
+1548115488,1bee33683ef230b50a9cc880643644f7,Form,9,0,outro,NULL,_REACTION_TIME_,10777
+#
+# Results on Tuesday January 22 2019 00:13:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+# Design number was non-random = 62
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548115996,8387d1bb56d1202dfad2272d26ba2301,Form,0,0,intro,NULL,_REACTION_TIME_,7247
+1548115996,8387d1bb56d1202dfad2272d26ba2301,Form,6,1,single-low,1,input,onlyfootstool
+1548115996,8387d1bb56d1202dfad2272d26ba2301,Form,6,1,single-low,1,_REACTION_TIME_,34072
+1548115996,8387d1bb56d1202dfad2272d26ba2301,Form,8,0,comprehension,NULL,q1,Alex
+1548115996,8387d1bb56d1202dfad2272d26ba2301,Form,8,0,comprehension,NULL,q2,green
+1548115996,8387d1bb56d1202dfad2272d26ba2301,Form,8,0,comprehension,NULL,_REACTION_TIME_,10412
+1548115996,8387d1bb56d1202dfad2272d26ba2301,Form,9,0,outro,NULL,nativeq,yes
+1548115996,8387d1bb56d1202dfad2272d26ba2301,Form,9,0,outro,NULL,_REACTION_TIME_,5839
+#
+# Results on Tuesday January 22 2019 02:19:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 63
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548123582,12a5a797fe7e1a9a24c56ef932bed9d8,Form,0,0,intro,NULL,_REACTION_TIME_,4488
+1548123582,12a5a797fe7e1a9a24c56ef932bed9d8,Form,7,1,both-low,1,input,chair
+1548123582,12a5a797fe7e1a9a24c56ef932bed9d8,Form,7,1,both-low,1,_REACTION_TIME_,13014
+1548123582,12a5a797fe7e1a9a24c56ef932bed9d8,Form,8,0,comprehension,NULL,q1,Alex
+1548123582,12a5a797fe7e1a9a24c56ef932bed9d8,Form,8,0,comprehension,NULL,q2,green
+1548123582,12a5a797fe7e1a9a24c56ef932bed9d8,Form,8,0,comprehension,NULL,_REACTION_TIME_,4286
+1548123582,12a5a797fe7e1a9a24c56ef932bed9d8,Form,9,0,outro,NULL,nativeq,yes
+1548123582,12a5a797fe7e1a9a24c56ef932bed9d8,Form,9,0,outro,NULL,_REACTION_TIME_,11247
+#
+# Results on Tuesday January 22 2019 03:09:48 UTC.
+# USER AGENT: Mozilla/5.0 (X11; CrOS x86_64 11151.59.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.94 Safari/537.36
+# Design number was non-random = 64
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548126589,1b49ab19f42d2999ad0e24fa8c0ccce0,Form,0,0,intro,NULL,_REACTION_TIME_,24021
+1548126589,1b49ab19f42d2999ad0e24fa8c0ccce0,Form,4,1,single-high,1,input,onlychair
+1548126589,1b49ab19f42d2999ad0e24fa8c0ccce0,Form,4,1,single-high,1,_REACTION_TIME_,22309
+1548126589,1b49ab19f42d2999ad0e24fa8c0ccce0,Form,8,0,comprehension,NULL,q1,Alex
+1548126589,1b49ab19f42d2999ad0e24fa8c0ccce0,Form,8,0,comprehension,NULL,q2,green
+1548126589,1b49ab19f42d2999ad0e24fa8c0ccce0,Form,8,0,comprehension,NULL,_REACTION_TIME_,7320
+1548126589,1b49ab19f42d2999ad0e24fa8c0ccce0,Form,9,0,outro,NULL,nativeq,yes
+1548126589,1b49ab19f42d2999ad0e24fa8c0ccce0,Form,9,0,outro,NULL,_REACTION_TIME_,12881
+#
+# Results on Tuesday January 22 2019 03:30:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 65
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548127816,b31ff1ec5ed76aa2745e13b4afa3f0d2,Form,0,0,intro,NULL,_REACTION_TIME_,7040
+1548127816,b31ff1ec5ed76aa2745e13b4afa3f0d2,Form,5,1,both-high,1,input,both
+1548127816,b31ff1ec5ed76aa2745e13b4afa3f0d2,Form,5,1,both-high,1,_REACTION_TIME_,16473
+1548127816,b31ff1ec5ed76aa2745e13b4afa3f0d2,Form,8,0,comprehension,NULL,q1,Alex
+1548127816,b31ff1ec5ed76aa2745e13b4afa3f0d2,Form,8,0,comprehension,NULL,q2,green
+1548127816,b31ff1ec5ed76aa2745e13b4afa3f0d2,Form,8,0,comprehension,NULL,_REACTION_TIME_,15202
+1548127816,b31ff1ec5ed76aa2745e13b4afa3f0d2,Form,9,0,outro,NULL,nativeq,yes
+1548127816,b31ff1ec5ed76aa2745e13b4afa3f0d2,Form,9,0,outro,NULL,_REACTION_TIME_,11716
+#
+# Results on Tuesday January 22 2019 06:32:54 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 66
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548138775,650d83a841fab323f30dd9593474ee0e,Form,0,0,intro,NULL,_REACTION_TIME_,8417
+1548138775,650d83a841fab323f30dd9593474ee0e,Form,6,1,single-low,1,input,footstool
+1548138775,650d83a841fab323f30dd9593474ee0e,Form,6,1,single-low,1,_REACTION_TIME_,16888
+1548138775,650d83a841fab323f30dd9593474ee0e,Form,8,0,comprehension,NULL,q1,Alex
+1548138775,650d83a841fab323f30dd9593474ee0e,Form,8,0,comprehension,NULL,q2,tan
+1548138775,650d83a841fab323f30dd9593474ee0e,Form,8,0,comprehension,NULL,_REACTION_TIME_,7178
+1548138775,650d83a841fab323f30dd9593474ee0e,Form,9,0,outro,NULL,nativeq,yes
+1548138775,650d83a841fab323f30dd9593474ee0e,Form,9,0,outro,NULL,_REACTION_TIME_,15556
+#
+# Results on Tuesday January 22 2019 07:12:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 67
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141174,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1606
+1548141174,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,input,both
+1548141174,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,_REACTION_TIME_,10812
+1548141174,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141174,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141174,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4301
+1548141174,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141174,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,5774
+#
+# Results on Tuesday January 22 2019 07:13:14 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 67
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141194,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,2987
+1548141194,30d0d22adfacb24c13e2eb3dee1b3d68,Form,7,1,both-low,1,input,onlyfootstool
+1548141194,30d0d22adfacb24c13e2eb3dee1b3d68,Form,7,1,both-low,1,_REACTION_TIME_,24482
+1548141194,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548141194,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,3210
+1548141194,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548141194,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,5705
+#
+# Results on Tuesday January 22 2019 07:13:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 68
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141221,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1839
+1548141221,74a83cd9136e6c423df3cca29c24309a,Form,4,1,single-high,1,input,onlychair
+1548141221,74a83cd9136e6c423df3cca29c24309a,Form,4,1,single-high,1,_REACTION_TIME_,12275
+1548141221,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141221,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141221,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,5066
+1548141221,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141221,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,7194
+#
+# Results on Tuesday January 22 2019 07:13:55 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 69
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141235,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,1691
+1548141235,30d0d22adfacb24c13e2eb3dee1b3d68,Form,5,1,both-high,1,_REACTION_TIME_,4893
+1548141235,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548141235,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,2863
+1548141235,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548141235,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,5946
+#
+# Results on Tuesday January 22 2019 07:14:08 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 69
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141249,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1145
+1548141249,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,input,both
+1548141249,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,_REACTION_TIME_,12968
+1548141249,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141249,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141249,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,3987
+1548141249,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141249,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,6142
+#
+# Results on Tuesday January 22 2019 07:14:27 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 70
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141268,f3089d65ab875fd6ef9f76d0c2016017,Form,0,0,intro,NULL,_REACTION_TIME_,8417
+1548141268,f3089d65ab875fd6ef9f76d0c2016017,Form,6,1,single-low,1,input,footstool
+1548141268,f3089d65ab875fd6ef9f76d0c2016017,Form,6,1,single-low,1,_REACTION_TIME_,11182
+1548141268,f3089d65ab875fd6ef9f76d0c2016017,Form,8,0,comprehension,NULL,q1,Alex
+1548141268,f3089d65ab875fd6ef9f76d0c2016017,Form,8,0,comprehension,NULL,q2,green
+1548141268,f3089d65ab875fd6ef9f76d0c2016017,Form,8,0,comprehension,NULL,_REACTION_TIME_,5335
+1548141268,f3089d65ab875fd6ef9f76d0c2016017,Form,9,0,outro,NULL,nativeq,yes
+1548141268,f3089d65ab875fd6ef9f76d0c2016017,Form,9,0,outro,NULL,_REACTION_TIME_,4856
+#
+# Results on Tuesday January 22 2019 07:15:46 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 73
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141346,3501654f926297ab383cfd052ce3e9c6,Form,0,0,intro,NULL,_REACTION_TIME_,1844
+1548141346,3501654f926297ab383cfd052ce3e9c6,Form,5,1,both-high,1,input,both
+1548141346,3501654f926297ab383cfd052ce3e9c6,Form,5,1,both-high,1,_REACTION_TIME_,12233
+1548141346,3501654f926297ab383cfd052ce3e9c6,Form,8,0,comprehension,NULL,q1,Sam
+1548141346,3501654f926297ab383cfd052ce3e9c6,Form,8,0,comprehension,NULL,q2,green
+1548141346,3501654f926297ab383cfd052ce3e9c6,Form,8,0,comprehension,NULL,_REACTION_TIME_,6054
+1548141346,3501654f926297ab383cfd052ce3e9c6,Form,9,0,outro,NULL,nativeq,yes
+1548141346,3501654f926297ab383cfd052ce3e9c6,Form,9,0,outro,NULL,_REACTION_TIME_,11984
+#
+# Results on Tuesday January 22 2019 07:15:48 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 73
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141349,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1192
+1548141349,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,input,both
+1548141349,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,_REACTION_TIME_,3474
+1548141349,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141349,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141349,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,3963
+1548141349,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141349,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,5297
+#
+# Results on Tuesday January 22 2019 07:15:49 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 73
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141350,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1798
+1548141350,74a83cd9136e6c423df3cca29c24309a,Form,5,1,both-high,1,input,both
+1548141350,74a83cd9136e6c423df3cca29c24309a,Form,5,1,both-high,1,_REACTION_TIME_,6189
+1548141350,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141350,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141350,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4592
+1548141350,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141350,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,5801
+#
+# Results on Tuesday January 22 2019 07:16:12 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 73
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141373,e3c67a85108bd48a8e73db6b4bf910e1,Form,0,0,intro,NULL,_REACTION_TIME_,1899
+1548141373,e3c67a85108bd48a8e73db6b4bf910e1,Form,5,1,both-high,1,input,footstool
+1548141373,e3c67a85108bd48a8e73db6b4bf910e1,Form,5,1,both-high,1,_REACTION_TIME_,20187
+1548141373,e3c67a85108bd48a8e73db6b4bf910e1,Form,8,0,comprehension,NULL,q1,Alex
+1548141373,e3c67a85108bd48a8e73db6b4bf910e1,Form,8,0,comprehension,NULL,q2,green
+1548141373,e3c67a85108bd48a8e73db6b4bf910e1,Form,8,0,comprehension,NULL,_REACTION_TIME_,7287
+1548141373,e3c67a85108bd48a8e73db6b4bf910e1,Form,9,0,outro,NULL,nativeq,yes
+1548141373,e3c67a85108bd48a8e73db6b4bf910e1,Form,9,0,outro,NULL,_REACTION_TIME_,18953
+#
+# Results on Tuesday January 22 2019 07:16:31 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 76
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141392,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1699
+1548141392,74a83cd9136e6c423df3cca29c24309a,Form,4,1,single-high,1,input,onlychair
+1548141392,74a83cd9136e6c423df3cca29c24309a,Form,4,1,single-high,1,_REACTION_TIME_,5090
+1548141392,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141392,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141392,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4192
+1548141392,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141392,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,5638
+#
+# Results on Tuesday January 22 2019 07:16:34 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 76
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141394,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1124
+1548141394,06c32964c57fab85e798ac056d10bf4f,Form,4,1,single-high,1,input,chair
+1548141394,06c32964c57fab85e798ac056d10bf4f,Form,4,1,single-high,1,_REACTION_TIME_,3465
+1548141394,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141394,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141394,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,4596
+1548141394,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141394,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,10105
+#
+# Results on Tuesday January 22 2019 07:17:09 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 79
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141429,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1934
+1548141429,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,input,both
+1548141429,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,_REACTION_TIME_,4451
+1548141429,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141429,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141429,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4289
+1548141429,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141429,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,7405
+#
+# Results on Tuesday January 22 2019 07:17:19 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 79
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141440,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1143
+1548141440,06c32964c57fab85e798ac056d10bf4f,Form,7,1,both-low,1,_REACTION_TIME_,1975
+1548141440,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141440,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141440,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,6536
+1548141440,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141440,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,11961
+#
+# Results on Tuesday January 22 2019 07:17:55 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 81
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141475,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1115
+1548141475,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,input,both
+1548141475,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,_REACTION_TIME_,3462
+1548141475,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141475,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141475,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,5570
+1548141475,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141475,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,3880
+#
+# Results on Tuesday January 22 2019 07:18:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 82
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141496,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,2574
+1548141496,30d0d22adfacb24c13e2eb3dee1b3d68,Form,6,1,single-low,1,_REACTION_TIME_,2604
+1548141496,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548141496,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,2291
+1548141496,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548141496,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,5202
+#
+# Results on Tuesday January 22 2019 07:18:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 76
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141496,df611255ccede8bdba95d06ae7faace0,Form,0,0,intro,NULL,_REACTION_TIME_,96180
+1548141496,df611255ccede8bdba95d06ae7faace0,Form,4,1,single-high,1,input,chair
+1548141496,df611255ccede8bdba95d06ae7faace0,Form,4,1,single-high,1,_REACTION_TIME_,11341
+1548141496,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,q1,Alex
+1548141496,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,q2,green
+1548141496,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,_REACTION_TIME_,4928
+1548141496,df611255ccede8bdba95d06ae7faace0,Form,9,0,outro,NULL,nativeq,yes
+1548141496,df611255ccede8bdba95d06ae7faace0,Form,9,0,outro,NULL,_REACTION_TIME_,11968
+#
+# Results on Tuesday January 22 2019 07:19:26 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 84
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141567,df611255ccede8bdba95d06ae7faace0,Form,0,0,intro,NULL,_REACTION_TIME_,2029
+1548141567,df611255ccede8bdba95d06ae7faace0,Form,4,1,single-high,1,input,both
+1548141567,df611255ccede8bdba95d06ae7faace0,Form,4,1,single-high,1,_REACTION_TIME_,10741
+1548141567,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,q1,Alex
+1548141567,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,q2,green
+1548141567,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,_REACTION_TIME_,6280
+1548141567,df611255ccede8bdba95d06ae7faace0,Form,9,0,outro,NULL,nativeq,yes
+1548141567,df611255ccede8bdba95d06ae7faace0,Form,9,0,outro,NULL,_REACTION_TIME_,10165
+#
+# Results on Tuesday January 22 2019 07:19:51 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 84
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141592,11f174d38abed8edfeb2bc8c7c2ace8d,Form,0,0,intro,NULL,_REACTION_TIME_,1533
+1548141592,11f174d38abed8edfeb2bc8c7c2ace8d,Form,4,1,single-high,1,input,chair
+1548141592,11f174d38abed8edfeb2bc8c7c2ace8d,Form,4,1,single-high,1,_REACTION_TIME_,10284
+1548141592,11f174d38abed8edfeb2bc8c7c2ace8d,Form,8,0,comprehension,NULL,q1,Alex
+1548141592,11f174d38abed8edfeb2bc8c7c2ace8d,Form,8,0,comprehension,NULL,q2,tan
+1548141592,11f174d38abed8edfeb2bc8c7c2ace8d,Form,8,0,comprehension,NULL,_REACTION_TIME_,4334
+1548141592,11f174d38abed8edfeb2bc8c7c2ace8d,Form,9,0,outro,NULL,nativeq,yes
+1548141592,11f174d38abed8edfeb2bc8c7c2ace8d,Form,9,0,outro,NULL,_REACTION_TIME_,4688
+#
+# Results on Tuesday January 22 2019 07:20:36 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 86
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141636,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1387
+1548141636,06c32964c57fab85e798ac056d10bf4f,Form,6,1,single-low,1,input,footstool
+1548141636,06c32964c57fab85e798ac056d10bf4f,Form,6,1,single-low,1,_REACTION_TIME_,3337
+1548141636,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141636,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141636,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,3875
+1548141636,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141636,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,3887
+#
+# Results on Tuesday January 22 2019 07:21:06 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 86
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141666,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1629
+1548141666,74a83cd9136e6c423df3cca29c24309a,Form,6,1,single-low,1,input,onlyfootstool
+1548141666,74a83cd9136e6c423df3cca29c24309a,Form,6,1,single-low,1,_REACTION_TIME_,5427
+1548141666,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141666,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141666,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4283
+1548141666,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141666,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,12416
+#
+# Results on Tuesday January 22 2019 07:21:23 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 86
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141683,df611255ccede8bdba95d06ae7faace0,Form,0,0,intro,NULL,_REACTION_TIME_,1628
+1548141683,df611255ccede8bdba95d06ae7faace0,Form,6,1,single-low,1,input,footstool
+1548141683,df611255ccede8bdba95d06ae7faace0,Form,6,1,single-low,1,_REACTION_TIME_,16201
+1548141683,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,q1,Alex
+1548141683,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,q2,green
+1548141683,df611255ccede8bdba95d06ae7faace0,Form,8,0,comprehension,NULL,_REACTION_TIME_,3915
+1548141683,df611255ccede8bdba95d06ae7faace0,Form,9,0,outro,NULL,nativeq,yes
+1548141683,df611255ccede8bdba95d06ae7faace0,Form,9,0,outro,NULL,_REACTION_TIME_,9693
+#
+# Results on Tuesday January 22 2019 07:21:51 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36
+# Design number was non-random = 86
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141712,a528afaa66190e0fadb264c55070b7ec,Form,0,0,intro,NULL,_REACTION_TIME_,14446
+1548141712,a528afaa66190e0fadb264c55070b7ec,Form,6,1,single-low,1,input,onlyfootstool
+1548141712,a528afaa66190e0fadb264c55070b7ec,Form,6,1,single-low,1,_REACTION_TIME_,22454
+1548141712,a528afaa66190e0fadb264c55070b7ec,Form,8,0,comprehension,NULL,q1,Sam
+1548141712,a528afaa66190e0fadb264c55070b7ec,Form,8,0,comprehension,NULL,q2,green
+1548141712,a528afaa66190e0fadb264c55070b7ec,Form,8,0,comprehension,NULL,_REACTION_TIME_,7795
+1548141712,a528afaa66190e0fadb264c55070b7ec,Form,9,0,outro,NULL,nativeq,yes
+1548141712,a528afaa66190e0fadb264c55070b7ec,Form,9,0,outro,NULL,_REACTION_TIME_,17657
+#
+# Results on Tuesday January 22 2019 07:22:32 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 90
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141753,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1745
+1548141753,74a83cd9136e6c423df3cca29c24309a,Form,6,1,single-low,1,input,onlyfootstool
+1548141753,74a83cd9136e6c423df3cca29c24309a,Form,6,1,single-low,1,_REACTION_TIME_,4211
+1548141753,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141753,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141753,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4095
+1548141753,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141753,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,13456
+#
+# Results on Tuesday January 22 2019 07:22:57 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 91
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141777,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1525
+1548141777,06c32964c57fab85e798ac056d10bf4f,Form,7,1,both-low,1,input,both
+1548141777,06c32964c57fab85e798ac056d10bf4f,Form,7,1,both-low,1,_REACTION_TIME_,2366
+1548141777,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141777,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141777,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,3240
+1548141777,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141777,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,3909
+#
+# Results on Tuesday January 22 2019 07:23:03 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 91
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141783,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,1356
+1548141783,30d0d22adfacb24c13e2eb3dee1b3d68,Form,7,1,both-low,1,_REACTION_TIME_,2739
+1548141783,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548141783,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,2507
+1548141783,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548141783,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,5394
+#
+# Results on Tuesday January 22 2019 07:23:12 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 91
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141792,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1446
+1548141792,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,input,both
+1548141792,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,_REACTION_TIME_,3479
+1548141792,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141792,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141792,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,3328
+1548141792,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141792,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,11401
+#
+# Results on Tuesday January 22 2019 07:23:28 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 93
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141808,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1103
+1548141808,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,input,both
+1548141808,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,_REACTION_TIME_,2886
+1548141808,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141808,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141808,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,3369
+1548141808,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141808,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,5918
+#
+# Results on Tuesday January 22 2019 07:23:38 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 91
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141818,c706bffb799087122700a4a97f2c11d9,Form,0,0,intro,NULL,_REACTION_TIME_,2105
+1548141818,c706bffb799087122700a4a97f2c11d9,Form,7,1,both-low,1,input,both
+1548141818,c706bffb799087122700a4a97f2c11d9,Form,7,1,both-low,1,_REACTION_TIME_,19501
+1548141818,c706bffb799087122700a4a97f2c11d9,Form,8,0,comprehension,NULL,q1,Alex
+1548141818,c706bffb799087122700a4a97f2c11d9,Form,8,0,comprehension,NULL,q2,green
+1548141818,c706bffb799087122700a4a97f2c11d9,Form,8,0,comprehension,NULL,_REACTION_TIME_,6047
+1548141818,c706bffb799087122700a4a97f2c11d9,Form,9,0,outro,NULL,nativeq,yes
+1548141818,c706bffb799087122700a4a97f2c11d9,Form,9,0,outro,NULL,_REACTION_TIME_,8122
+#
+# Results on Tuesday January 22 2019 07:24:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+# Design number was non-random = 95
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141852,06a75531eae6e7de1670ff5c4705a6a7,Form,0,0,intro,NULL,_REACTION_TIME_,1884
+1548141852,06a75531eae6e7de1670ff5c4705a6a7,Form,7,1,both-low,1,input,both
+1548141852,06a75531eae6e7de1670ff5c4705a6a7,Form,7,1,both-low,1,_REACTION_TIME_,12760
+1548141852,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q1,Alex
+1548141852,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q2,green
+1548141852,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,_REACTION_TIME_,5286
+1548141852,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,nativeq,no
+1548141852,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,_REACTION_TIME_,5543
+#
+# Results on Tuesday January 22 2019 07:24:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 96
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141856,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1567
+1548141856,74a83cd9136e6c423df3cca29c24309a,Form,4,1,single-high,1,input,onlychair
+1548141856,74a83cd9136e6c423df3cca29c24309a,Form,4,1,single-high,1,_REACTION_TIME_,5146
+1548141856,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141856,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141856,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4900
+1548141856,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141856,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,5472
+#
+# Results on Tuesday January 22 2019 07:24:22 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 95
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141863,d17a1abc117039f0c5270bc694deb713,Form,0,0,intro,NULL,_REACTION_TIME_,24039
+1548141863,d17a1abc117039f0c5270bc694deb713,Form,7,1,both-low,1,input,chair
+1548141863,d17a1abc117039f0c5270bc694deb713,Form,7,1,both-low,1,_REACTION_TIME_,10307
+1548141863,d17a1abc117039f0c5270bc694deb713,Form,8,0,comprehension,NULL,q1,Sam
+1548141863,d17a1abc117039f0c5270bc694deb713,Form,8,0,comprehension,NULL,q2,green
+1548141863,d17a1abc117039f0c5270bc694deb713,Form,8,0,comprehension,NULL,_REACTION_TIME_,7161
+1548141863,d17a1abc117039f0c5270bc694deb713,Form,9,0,outro,NULL,nativeq,yes
+1548141863,d17a1abc117039f0c5270bc694deb713,Form,9,0,outro,NULL,_REACTION_TIME_,4501
+#
+# Results on Tuesday January 22 2019 07:24:27 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 96
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141867,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1068
+1548141867,06c32964c57fab85e798ac056d10bf4f,Form,4,1,single-high,1,input,chair
+1548141867,06c32964c57fab85e798ac056d10bf4f,Form,4,1,single-high,1,_REACTION_TIME_,2717
+1548141867,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141867,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141867,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,3511
+1548141867,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141867,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,5586
+#
+# Results on Tuesday January 22 2019 07:24:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 100
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141894,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,2201
+1548141894,30d0d22adfacb24c13e2eb3dee1b3d68,Form,4,1,single-high,1,_REACTION_TIME_,1171
+1548141894,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548141894,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,3331
+1548141894,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548141894,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,4483
+#
+# Results on Tuesday January 22 2019 07:25:01 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+# Design number was non-random = 100
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141902,06a75531eae6e7de1670ff5c4705a6a7,Form,0,0,intro,NULL,_REACTION_TIME_,1893
+1548141902,06a75531eae6e7de1670ff5c4705a6a7,Form,4,1,single-high,1,input,onlychair
+1548141902,06a75531eae6e7de1670ff5c4705a6a7,Form,4,1,single-high,1,_REACTION_TIME_,9290
+1548141902,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q1,Alex
+1548141902,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q2,green
+1548141902,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,_REACTION_TIME_,4454
+1548141902,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,nativeq,yes
+1548141902,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,_REACTION_TIME_,4684
+#
+# Results on Tuesday January 22 2019 07:25:08 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 100
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141909,d17a1abc117039f0c5270bc694deb713,Form,0,0,intro,NULL,_REACTION_TIME_,7925
+1548141909,d17a1abc117039f0c5270bc694deb713,Form,4,1,single-high,1,input,footstool
+1548141909,d17a1abc117039f0c5270bc694deb713,Form,4,1,single-high,1,_REACTION_TIME_,7491
+1548141909,d17a1abc117039f0c5270bc694deb713,Form,8,0,comprehension,NULL,q1,Alex
+1548141909,d17a1abc117039f0c5270bc694deb713,Form,8,0,comprehension,NULL,q2,green
+1548141909,d17a1abc117039f0c5270bc694deb713,Form,8,0,comprehension,NULL,_REACTION_TIME_,5434
+1548141909,d17a1abc117039f0c5270bc694deb713,Form,9,0,outro,NULL,nativeq,yes
+1548141909,d17a1abc117039f0c5270bc694deb713,Form,9,0,outro,NULL,_REACTION_TIME_,6055
+#
+# Results on Tuesday January 22 2019 07:25:36 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 103
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141937,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1581
+1548141937,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,input,both
+1548141937,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,_REACTION_TIME_,3544
+1548141937,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548141937,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548141937,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,3676
+1548141937,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548141937,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,10335
+#
+# Results on Tuesday January 22 2019 07:25:39 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+# Design number was non-random = 103
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141940,06a75531eae6e7de1670ff5c4705a6a7,Form,0,0,intro,NULL,_REACTION_TIME_,1438
+1548141940,06a75531eae6e7de1670ff5c4705a6a7,Form,7,1,both-low,1,input,both
+1548141940,06a75531eae6e7de1670ff5c4705a6a7,Form,7,1,both-low,1,_REACTION_TIME_,4861
+1548141940,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q1,Alex
+1548141940,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q2,green
+1548141940,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,_REACTION_TIME_,4091
+1548141940,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,nativeq,yes
+1548141940,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,_REACTION_TIME_,7191
+#
+# Results on Tuesday January 22 2019 07:26:32 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 105
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548141992,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1104
+1548141992,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,input,both
+1548141992,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,_REACTION_TIME_,3188
+1548141992,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548141992,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548141992,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,3360
+1548141992,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548141992,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,3847
+#
+# Results on Tuesday January 22 2019 07:26:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 105
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142002,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,1442
+1548142002,30d0d22adfacb24c13e2eb3dee1b3d68,Form,5,1,both-high,1,_REACTION_TIME_,2075
+1548142002,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548142002,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,2291
+1548142002,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548142002,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,5674
+#
+# Results on Tuesday January 22 2019 07:26:48 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 105
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142009,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1753
+1548142009,74a83cd9136e6c423df3cca29c24309a,Form,5,1,both-high,1,input,both
+1548142009,74a83cd9136e6c423df3cca29c24309a,Form,5,1,both-high,1,_REACTION_TIME_,4066
+1548142009,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548142009,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548142009,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4250
+1548142009,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548142009,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,11072
+#
+# Results on Tuesday January 22 2019 07:26:57 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 8.0.0; SM-J737V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 105
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142017,80316bfc6a585b42c42dc2471873d137,Form,0,0,intro,NULL,_REACTION_TIME_,2569
+1548142017,80316bfc6a585b42c42dc2471873d137,Form,5,1,both-high,1,input,onlyfootstool
+1548142017,80316bfc6a585b42c42dc2471873d137,Form,5,1,both-high,1,_REACTION_TIME_,17315
+1548142017,80316bfc6a585b42c42dc2471873d137,Form,8,0,comprehension,NULL,q1,Alex
+1548142017,80316bfc6a585b42c42dc2471873d137,Form,8,0,comprehension,NULL,q2,green
+1548142017,80316bfc6a585b42c42dc2471873d137,Form,8,0,comprehension,NULL,_REACTION_TIME_,7224
+1548142017,80316bfc6a585b42c42dc2471873d137,Form,9,0,outro,NULL,nativeq,yes
+1548142017,80316bfc6a585b42c42dc2471873d137,Form,9,0,outro,NULL,_REACTION_TIME_,10186
+#
+# Results on Tuesday January 22 2019 07:27:11 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 108
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142032,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,1813
+1548142032,30d0d22adfacb24c13e2eb3dee1b3d68,Form,4,1,single-high,1,_REACTION_TIME_,1674
+1548142032,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548142032,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,2306
+1548142032,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548142032,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,4211
+#
+# Results on Tuesday January 22 2019 07:27:41 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 110
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142061,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1917
+1548142061,06c32964c57fab85e798ac056d10bf4f,Form,6,1,single-low,1,input,footstool
+1548142061,06c32964c57fab85e798ac056d10bf4f,Form,6,1,single-low,1,_REACTION_TIME_,4991
+1548142061,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548142061,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548142061,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,4036
+1548142061,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548142061,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,6631
+#
+# Results on Tuesday January 22 2019 07:28:00 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 110
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142080,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1512
+1548142080,74a83cd9136e6c423df3cca29c24309a,Form,6,1,single-low,1,input,onlyfootstool
+1548142080,74a83cd9136e6c423df3cca29c24309a,Form,6,1,single-low,1,_REACTION_TIME_,4210
+1548142080,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548142080,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548142080,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,4140
+1548142080,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548142080,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,12504
+#
+# Results on Tuesday January 22 2019 07:28:18 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 110
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142098,6703d72126273f1da2963dfc783b5d73,Form,0,0,intro,NULL,_REACTION_TIME_,6449
+1548142098,6703d72126273f1da2963dfc783b5d73,Form,6,1,single-low,1,input,onlyfootstool
+1548142098,6703d72126273f1da2963dfc783b5d73,Form,6,1,single-low,1,_REACTION_TIME_,10942
+1548142098,6703d72126273f1da2963dfc783b5d73,Form,8,0,comprehension,NULL,q1,Alex
+1548142098,6703d72126273f1da2963dfc783b5d73,Form,8,0,comprehension,NULL,q2,tan
+1548142098,6703d72126273f1da2963dfc783b5d73,Form,8,0,comprehension,NULL,_REACTION_TIME_,11473
+1548142098,6703d72126273f1da2963dfc783b5d73,Form,9,0,outro,NULL,nativeq,yes
+1548142098,6703d72126273f1da2963dfc783b5d73,Form,9,0,outro,NULL,_REACTION_TIME_,4832
+#
+# Results on Tuesday January 22 2019 07:28:25 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 112
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142106,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,3939
+1548142106,30d0d22adfacb24c13e2eb3dee1b3d68,Form,4,1,single-high,1,_REACTION_TIME_,1892
+1548142106,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548142106,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,1834
+1548142106,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548142106,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,4545
+#
+# Results on Tuesday January 22 2019 07:28:43 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 113
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142123,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1107
+1548142123,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,input,both
+1548142123,06c32964c57fab85e798ac056d10bf4f,Form,5,1,both-high,1,_REACTION_TIME_,3065
+1548142123,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548142123,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548142123,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,5305
+1548142123,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548142123,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,6963
+#
+# Results on Tuesday January 22 2019 07:28:45 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 112
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142126,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,4257
+1548142126,74a83cd9136e6c423df3cca29c24309a,Form,4,1,single-high,1,input,onlychair
+1548142126,74a83cd9136e6c423df3cca29c24309a,Form,4,1,single-high,1,_REACTION_TIME_,6200
+1548142126,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548142126,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548142126,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,3555
+1548142126,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548142126,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,11034
+#
+# Results on Tuesday January 22 2019 07:29:14 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+# Design number was non-random = 116
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142155,06a75531eae6e7de1670ff5c4705a6a7,Form,0,0,intro,NULL,_REACTION_TIME_,1582
+1548142155,06a75531eae6e7de1670ff5c4705a6a7,Form,4,1,single-high,1,input,onlychair
+1548142155,06a75531eae6e7de1670ff5c4705a6a7,Form,4,1,single-high,1,_REACTION_TIME_,7203
+1548142155,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q1,Alex
+1548142155,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q2,green
+1548142155,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,_REACTION_TIME_,5393
+1548142155,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,nativeq,yes
+1548142155,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,_REACTION_TIME_,4935
+#
+# Results on Tuesday January 22 2019 07:29:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36 AVG/70.1.682.112
+# Design number was non-random = 112
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142156,879485b28206af6c0cbfd52b5092604f,Form,0,0,intro,NULL,_REACTION_TIME_,1850
+1548142156,879485b28206af6c0cbfd52b5092604f,Form,4,1,single-high,1,input,chair
+1548142156,879485b28206af6c0cbfd52b5092604f,Form,4,1,single-high,1,_REACTION_TIME_,22578
+1548142156,879485b28206af6c0cbfd52b5092604f,Form,8,0,comprehension,NULL,q1,Alex
+1548142156,879485b28206af6c0cbfd52b5092604f,Form,8,0,comprehension,NULL,q2,green
+1548142156,879485b28206af6c0cbfd52b5092604f,Form,8,0,comprehension,NULL,_REACTION_TIME_,7729
+1548142156,879485b28206af6c0cbfd52b5092604f,Form,9,0,outro,NULL,nativeq,yes
+1548142156,879485b28206af6c0cbfd52b5092604f,Form,9,0,outro,NULL,_REACTION_TIME_,13946
+#
+# Results on Tuesday January 22 2019 07:30:01 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 118
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142202,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1226
+1548142202,06c32964c57fab85e798ac056d10bf4f,Form,6,1,single-low,1,input,footstool
+1548142202,06c32964c57fab85e798ac056d10bf4f,Form,6,1,single-low,1,_REACTION_TIME_,2489
+1548142202,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548142202,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548142202,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,5185
+1548142202,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548142202,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,4715
+#
+# Results on Tuesday January 22 2019 07:30:30 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; Z557BL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 119
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142231,06c32964c57fab85e798ac056d10bf4f,Form,0,0,intro,NULL,_REACTION_TIME_,1310
+1548142231,06c32964c57fab85e798ac056d10bf4f,Form,7,1,both-low,1,input,both
+1548142231,06c32964c57fab85e798ac056d10bf4f,Form,7,1,both-low,1,_REACTION_TIME_,2793
+1548142231,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q1,Alex
+1548142231,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,q2,green
+1548142231,06c32964c57fab85e798ac056d10bf4f,Form,8,0,comprehension,NULL,_REACTION_TIME_,4792
+1548142231,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,nativeq,yes
+1548142231,06c32964c57fab85e798ac056d10bf4f,Form,9,0,outro,NULL,_REACTION_TIME_,3890
+#
+# Results on Tuesday January 22 2019 07:30:48 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 120
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142248,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,1489
+1548142248,30d0d22adfacb24c13e2eb3dee1b3d68,Form,4,1,single-high,1,_REACTION_TIME_,1852
+1548142248,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548142248,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,1961
+1548142248,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548142248,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,4755
+#
+# Results on Tuesday January 22 2019 07:30:52 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 119
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142252,74a83cd9136e6c423df3cca29c24309a,Form,0,0,intro,NULL,_REACTION_TIME_,1882
+1548142252,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,input,both
+1548142252,74a83cd9136e6c423df3cca29c24309a,Form,7,1,both-low,1,_REACTION_TIME_,4620
+1548142252,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q1,Alex
+1548142252,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,q2,green
+1548142252,74a83cd9136e6c423df3cca29c24309a,Form,8,0,comprehension,NULL,_REACTION_TIME_,3926
+1548142252,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,nativeq,yes
+1548142252,74a83cd9136e6c423df3cca29c24309a,Form,9,0,outro,NULL,_REACTION_TIME_,25251
+#
+# Results on Tuesday January 22 2019 07:31:12 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 122
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142273,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,1776
+1548142273,30d0d22adfacb24c13e2eb3dee1b3d68,Form,6,1,single-low,1,_REACTION_TIME_,1524
+1548142273,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548142273,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,2346
+1548142273,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548142273,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,4057
+#
+# Results on Tuesday January 22 2019 07:32:30 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+# Design number was non-random = 123
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142350,06a75531eae6e7de1670ff5c4705a6a7,Form,0,0,intro,NULL,_REACTION_TIME_,2778
+1548142350,06a75531eae6e7de1670ff5c4705a6a7,Form,7,1,both-low,1,input,both
+1548142350,06a75531eae6e7de1670ff5c4705a6a7,Form,7,1,both-low,1,_REACTION_TIME_,3950
+1548142350,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q1,Alex
+1548142350,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q2,green
+1548142350,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,_REACTION_TIME_,4215
+1548142350,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,nativeq,yes
+1548142350,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,_REACTION_TIME_,5262
+#
+# Results on Tuesday January 22 2019 07:32:33 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 123
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142354,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,1463
+1548142354,30d0d22adfacb24c13e2eb3dee1b3d68,Form,7,1,both-low,1,_REACTION_TIME_,1707
+1548142354,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548142354,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,2314
+1548142354,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548142354,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,4105
+#
+# Results on Tuesday January 22 2019 07:32:57 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+# Design number was non-random = 125
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142378,06a75531eae6e7de1670ff5c4705a6a7,Form,0,0,intro,NULL,_REACTION_TIME_,1230
+1548142378,06a75531eae6e7de1670ff5c4705a6a7,Form,5,1,both-high,1,input,both
+1548142378,06a75531eae6e7de1670ff5c4705a6a7,Form,5,1,both-high,1,_REACTION_TIME_,3586
+1548142378,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q1,Alex
+1548142378,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q2,green
+1548142378,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,_REACTION_TIME_,3372
+1548142378,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,nativeq,yes
+1548142378,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,_REACTION_TIME_,3970
+#
+# Results on Tuesday January 22 2019 07:35:07 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 126
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142508,30d0d22adfacb24c13e2eb3dee1b3d68,Form,0,0,intro,NULL,_REACTION_TIME_,999
+1548142508,30d0d22adfacb24c13e2eb3dee1b3d68,Form,6,1,single-low,1,_REACTION_TIME_,1091
+1548142508,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,q1,Alex
+1548142508,30d0d22adfacb24c13e2eb3dee1b3d68,Form,8,0,comprehension,NULL,_REACTION_TIME_,2419
+1548142508,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,nativeq,yes
+1548142508,30d0d22adfacb24c13e2eb3dee1b3d68,Form,9,0,outro,NULL,_REACTION_TIME_,4290
+#
+# Results on Tuesday January 22 2019 07:35:16 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+# Design number was non-random = 126
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548142517,06a75531eae6e7de1670ff5c4705a6a7,Form,0,0,intro,NULL,_REACTION_TIME_,1037
+1548142517,06a75531eae6e7de1670ff5c4705a6a7,Form,6,1,single-low,1,input,onlyfootstool
+1548142517,06a75531eae6e7de1670ff5c4705a6a7,Form,6,1,single-low,1,_REACTION_TIME_,11738
+1548142517,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q1,Alex
+1548142517,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,q2,green
+1548142517,06a75531eae6e7de1670ff5c4705a6a7,Form,8,0,comprehension,NULL,_REACTION_TIME_,3853
+1548142517,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,nativeq,yes
+1548142517,06a75531eae6e7de1670ff5c4705a6a7,Form,9,0,outro,NULL,_REACTION_TIME_,3672
+#
+# Results on Thursday January 24 2019 16:32:09 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347529,4921d20b6a2e1d7288ae4adbbc903000,Form,0,0,intro,NULL,_REACTION_TIME_,1784
+1548347529,4921d20b6a2e1d7288ae4adbbc903000,Form,4,1,single-high,1,input,onlychair
+1548347529,4921d20b6a2e1d7288ae4adbbc903000,Form,4,1,single-high,1,_REACTION_TIME_,11474
+1548347529,4921d20b6a2e1d7288ae4adbbc903000,Form,8,0,comprehension,NULL,q1,Alex
+1548347529,4921d20b6a2e1d7288ae4adbbc903000,Form,8,0,comprehension,NULL,q2,green
+1548347529,4921d20b6a2e1d7288ae4adbbc903000,Form,8,0,comprehension,NULL,_REACTION_TIME_,6550
+1548347529,4921d20b6a2e1d7288ae4adbbc903000,Form,9,0,outro,NULL,nativeq,yes
+1548347529,4921d20b6a2e1d7288ae4adbbc903000,Form,9,0,outro,NULL,_REACTION_TIME_,7865
+#
+# Results on Thursday January 24 2019 16:32:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347532,2bb33c378481dd15993f6f9402dba92b,Form,0,0,intro,NULL,_REACTION_TIME_,4624
+1548347532,2bb33c378481dd15993f6f9402dba92b,Form,4,1,single-high,1,input,onlychair
+1548347532,2bb33c378481dd15993f6f9402dba92b,Form,4,1,single-high,1,_REACTION_TIME_,7322
+1548347532,2bb33c378481dd15993f6f9402dba92b,Form,8,0,comprehension,NULL,q1,Alex
+1548347532,2bb33c378481dd15993f6f9402dba92b,Form,8,0,comprehension,NULL,q2,green
+1548347532,2bb33c378481dd15993f6f9402dba92b,Form,8,0,comprehension,NULL,_REACTION_TIME_,4304
+1548347532,2bb33c378481dd15993f6f9402dba92b,Form,9,0,outro,NULL,nativeq,yes
+1548347532,2bb33c378481dd15993f6f9402dba92b,Form,9,0,outro,NULL,_REACTION_TIME_,9248
+#
+# Results on Thursday January 24 2019 16:32:14 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347535,a5b67f8a3e0b6aee9c6b29617b4c7af4,Form,0,0,intro,NULL,_REACTION_TIME_,1796
+1548347535,a5b67f8a3e0b6aee9c6b29617b4c7af4,Form,4,1,single-high,1,input,onlyfootstool
+1548347535,a5b67f8a3e0b6aee9c6b29617b4c7af4,Form,4,1,single-high,1,_REACTION_TIME_,8155
+1548347535,a5b67f8a3e0b6aee9c6b29617b4c7af4,Form,8,0,comprehension,NULL,q1,Alex
+1548347535,a5b67f8a3e0b6aee9c6b29617b4c7af4,Form,8,0,comprehension,NULL,q2,green
+1548347535,a5b67f8a3e0b6aee9c6b29617b4c7af4,Form,8,0,comprehension,NULL,_REACTION_TIME_,4172
+1548347535,a5b67f8a3e0b6aee9c6b29617b4c7af4,Form,9,0,outro,NULL,nativeq,yes
+1548347535,a5b67f8a3e0b6aee9c6b29617b4c7af4,Form,9,0,outro,NULL,_REACTION_TIME_,5850
+#
+# Results on Thursday January 24 2019 16:32:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347535,c944f27d5504e8dda0c3ed889f57b3d8,Form,0,0,intro,NULL,_REACTION_TIME_,3389
+1548347535,c944f27d5504e8dda0c3ed889f57b3d8,Form,4,1,single-high,1,input,onlyfootstool
+1548347535,c944f27d5504e8dda0c3ed889f57b3d8,Form,4,1,single-high,1,_REACTION_TIME_,11715
+1548347535,c944f27d5504e8dda0c3ed889f57b3d8,Form,8,0,comprehension,NULL,q1,Alex
+1548347535,c944f27d5504e8dda0c3ed889f57b3d8,Form,8,0,comprehension,NULL,q2,green
+1548347535,c944f27d5504e8dda0c3ed889f57b3d8,Form,8,0,comprehension,NULL,_REACTION_TIME_,5355
+1548347535,c944f27d5504e8dda0c3ed889f57b3d8,Form,9,0,outro,NULL,nativeq,yes
+1548347535,c944f27d5504e8dda0c3ed889f57b3d8,Form,9,0,outro,NULL,_REACTION_TIME_,3835
+#
+# Results on Thursday January 24 2019 16:32:19 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347540,bccdc1fdbec488cccee3920bc53ea128,Form,0,0,intro,NULL,_REACTION_TIME_,4228
+1548347540,bccdc1fdbec488cccee3920bc53ea128,Form,4,1,single-high,1,input,onlychair
+1548347540,bccdc1fdbec488cccee3920bc53ea128,Form,4,1,single-high,1,_REACTION_TIME_,10837
+1548347540,bccdc1fdbec488cccee3920bc53ea128,Form,8,0,comprehension,NULL,q1,Sam
+1548347540,bccdc1fdbec488cccee3920bc53ea128,Form,8,0,comprehension,NULL,q2,green
+1548347540,bccdc1fdbec488cccee3920bc53ea128,Form,8,0,comprehension,NULL,_REACTION_TIME_,4009
+1548347540,bccdc1fdbec488cccee3920bc53ea128,Form,9,0,outro,NULL,nativeq,yes
+1548347540,bccdc1fdbec488cccee3920bc53ea128,Form,9,0,outro,NULL,_REACTION_TIME_,4046
+#
+# Results on Thursday January 24 2019 16:32:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347540,119fe31cd4380388e28787d6b58e1c2a,Form,0,0,intro,NULL,_REACTION_TIME_,6711
+1548347540,119fe31cd4380388e28787d6b58e1c2a,Form,4,1,single-high,1,input,onlyfootstool
+1548347540,119fe31cd4380388e28787d6b58e1c2a,Form,4,1,single-high,1,_REACTION_TIME_,14363
+1548347540,119fe31cd4380388e28787d6b58e1c2a,Form,8,0,comprehension,NULL,q1,Alex
+1548347540,119fe31cd4380388e28787d6b58e1c2a,Form,8,0,comprehension,NULL,q2,green
+1548347540,119fe31cd4380388e28787d6b58e1c2a,Form,8,0,comprehension,NULL,_REACTION_TIME_,7510
+1548347540,119fe31cd4380388e28787d6b58e1c2a,Form,9,0,outro,NULL,nativeq,yes
+1548347540,119fe31cd4380388e28787d6b58e1c2a,Form,9,0,outro,NULL,_REACTION_TIME_,5219
+#
+# Results on Thursday January 24 2019 16:32:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347540,d5f850355837f5c964aec0c82aa4f578,Form,0,0,intro,NULL,_REACTION_TIME_,6475
+1548347540,d5f850355837f5c964aec0c82aa4f578,Form,4,1,single-high,1,input,chair
+1548347540,d5f850355837f5c964aec0c82aa4f578,Form,4,1,single-high,1,_REACTION_TIME_,8289
+1548347540,d5f850355837f5c964aec0c82aa4f578,Form,8,0,comprehension,NULL,q1,Sam
+1548347540,d5f850355837f5c964aec0c82aa4f578,Form,8,0,comprehension,NULL,q2,green
+1548347540,d5f850355837f5c964aec0c82aa4f578,Form,8,0,comprehension,NULL,_REACTION_TIME_,6705
+1548347540,d5f850355837f5c964aec0c82aa4f578,Form,9,0,outro,NULL,nativeq,yes
+1548347540,d5f850355837f5c964aec0c82aa4f578,Form,9,0,outro,NULL,_REACTION_TIME_,7848
+#
+# Results on Thursday January 24 2019 16:32:24 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347544,0ec5b103f0e730025f018706d457cc21,Form,0,0,intro,NULL,_REACTION_TIME_,4480
+1548347544,0ec5b103f0e730025f018706d457cc21,Form,4,1,single-high,1,input,chair
+1548347544,0ec5b103f0e730025f018706d457cc21,Form,4,1,single-high,1,_REACTION_TIME_,4871
+1548347544,0ec5b103f0e730025f018706d457cc21,Form,8,0,comprehension,NULL,q1,Alex
+1548347544,0ec5b103f0e730025f018706d457cc21,Form,8,0,comprehension,NULL,q2,green
+1548347544,0ec5b103f0e730025f018706d457cc21,Form,8,0,comprehension,NULL,_REACTION_TIME_,4023
+1548347544,0ec5b103f0e730025f018706d457cc21,Form,9,0,outro,NULL,nativeq,yes
+1548347544,0ec5b103f0e730025f018706d457cc21,Form,9,0,outro,NULL,_REACTION_TIME_,7102
+#
+# Results on Thursday January 24 2019 16:32:34 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347554,4ae60a836de6cf03cfb766f9dbc7bcc4,Form,0,0,intro,NULL,_REACTION_TIME_,5407
+1548347554,4ae60a836de6cf03cfb766f9dbc7bcc4,Form,4,1,single-high,1,input,chair
+1548347554,4ae60a836de6cf03cfb766f9dbc7bcc4,Form,4,1,single-high,1,_REACTION_TIME_,19126
+1548347554,4ae60a836de6cf03cfb766f9dbc7bcc4,Form,8,0,comprehension,NULL,q1,Alex
+1548347554,4ae60a836de6cf03cfb766f9dbc7bcc4,Form,8,0,comprehension,NULL,q2,green
+1548347554,4ae60a836de6cf03cfb766f9dbc7bcc4,Form,8,0,comprehension,NULL,_REACTION_TIME_,10007
+1548347554,4ae60a836de6cf03cfb766f9dbc7bcc4,Form,9,0,outro,NULL,nativeq,yes
+1548347554,4ae60a836de6cf03cfb766f9dbc7bcc4,Form,9,0,outro,NULL,_REACTION_TIME_,8236
+#
+# Results on Thursday January 24 2019 16:32:38 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347558,a82e445c48ce07ad1cf4494020c1dc12,Form,0,0,intro,NULL,_REACTION_TIME_,1296
+1548347558,a82e445c48ce07ad1cf4494020c1dc12,Form,4,1,single-high,1,input,chair
+1548347558,a82e445c48ce07ad1cf4494020c1dc12,Form,4,1,single-high,1,_REACTION_TIME_,12193
+1548347558,a82e445c48ce07ad1cf4494020c1dc12,Form,8,0,comprehension,NULL,q1,Alex
+1548347558,a82e445c48ce07ad1cf4494020c1dc12,Form,8,0,comprehension,NULL,q2,green
+1548347558,a82e445c48ce07ad1cf4494020c1dc12,Form,8,0,comprehension,NULL,_REACTION_TIME_,9227
+1548347558,a82e445c48ce07ad1cf4494020c1dc12,Form,9,0,outro,NULL,nativeq,yes
+1548347558,a82e445c48ce07ad1cf4494020c1dc12,Form,9,0,outro,NULL,_REACTION_TIME_,10668
+#
+# Results on Thursday January 24 2019 16:32:38 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 8.0.0; SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347559,da0f50f8fb72ed876f13297898feeb47,Form,0,0,intro,NULL,_REACTION_TIME_,4387
+1548347559,da0f50f8fb72ed876f13297898feeb47,Form,4,1,single-high,1,input,chair
+1548347559,da0f50f8fb72ed876f13297898feeb47,Form,4,1,single-high,1,_REACTION_TIME_,12166
+1548347559,da0f50f8fb72ed876f13297898feeb47,Form,8,0,comprehension,NULL,q1,Alex
+1548347559,da0f50f8fb72ed876f13297898feeb47,Form,8,0,comprehension,NULL,q2,green
+1548347559,da0f50f8fb72ed876f13297898feeb47,Form,8,0,comprehension,NULL,_REACTION_TIME_,6531
+1548347559,da0f50f8fb72ed876f13297898feeb47,Form,9,0,outro,NULL,nativeq,yes
+1548347559,da0f50f8fb72ed876f13297898feeb47,Form,9,0,outro,NULL,_REACTION_TIME_,4625
+#
+# Results on Thursday January 24 2019 16:32:42 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347563,451be44c7cb294ab718efc71f27ef548,Form,0,0,intro,NULL,_REACTION_TIME_,1885
+1548347563,451be44c7cb294ab718efc71f27ef548,Form,4,1,single-high,1,input,chair
+1548347563,451be44c7cb294ab718efc71f27ef548,Form,4,1,single-high,1,_REACTION_TIME_,10238
+1548347563,451be44c7cb294ab718efc71f27ef548,Form,8,0,comprehension,NULL,q1,Alex
+1548347563,451be44c7cb294ab718efc71f27ef548,Form,8,0,comprehension,NULL,q2,green
+1548347563,451be44c7cb294ab718efc71f27ef548,Form,8,0,comprehension,NULL,_REACTION_TIME_,6036
+1548347563,451be44c7cb294ab718efc71f27ef548,Form,9,0,outro,NULL,nativeq,yes
+1548347563,451be44c7cb294ab718efc71f27ef548,Form,9,0,outro,NULL,_REACTION_TIME_,8712
+#
+# Results on Thursday January 24 2019 16:32:44 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347564,9f1dbf7a31c9221dc9b3e2dcbe0ead12,Form,0,0,intro,NULL,_REACTION_TIME_,1787
+1548347564,9f1dbf7a31c9221dc9b3e2dcbe0ead12,Form,4,1,single-high,1,input,chair
+1548347564,9f1dbf7a31c9221dc9b3e2dcbe0ead12,Form,4,1,single-high,1,_REACTION_TIME_,19230
+1548347564,9f1dbf7a31c9221dc9b3e2dcbe0ead12,Form,8,0,comprehension,NULL,q1,Sam
+1548347564,9f1dbf7a31c9221dc9b3e2dcbe0ead12,Form,8,0,comprehension,NULL,q2,green
+1548347564,9f1dbf7a31c9221dc9b3e2dcbe0ead12,Form,8,0,comprehension,NULL,_REACTION_TIME_,6439
+1548347564,9f1dbf7a31c9221dc9b3e2dcbe0ead12,Form,9,0,outro,NULL,nativeq,yes
+1548347564,9f1dbf7a31c9221dc9b3e2dcbe0ead12,Form,9,0,outro,NULL,_REACTION_TIME_,7889
+#
+# Results on Thursday January 24 2019 16:32:45 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347566,bed9b9ffe4a5a08b60533dd7c95c1f63,Form,0,0,intro,NULL,_REACTION_TIME_,4406
+1548347566,bed9b9ffe4a5a08b60533dd7c95c1f63,Form,4,1,single-high,1,input,footstool
+1548347566,bed9b9ffe4a5a08b60533dd7c95c1f63,Form,4,1,single-high,1,_REACTION_TIME_,17183
+1548347566,bed9b9ffe4a5a08b60533dd7c95c1f63,Form,8,0,comprehension,NULL,q1,Alex
+1548347566,bed9b9ffe4a5a08b60533dd7c95c1f63,Form,8,0,comprehension,NULL,q2,green
+1548347566,bed9b9ffe4a5a08b60533dd7c95c1f63,Form,8,0,comprehension,NULL,_REACTION_TIME_,4559
+1548347566,bed9b9ffe4a5a08b60533dd7c95c1f63,Form,9,0,outro,NULL,nativeq,yes
+1548347566,bed9b9ffe4a5a08b60533dd7c95c1f63,Form,9,0,outro,NULL,_REACTION_TIME_,3382
+#
+# Results on Thursday January 24 2019 16:32:45 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347566,9c581db5ddac1421f5d71a0ef490dd36,Form,0,0,intro,NULL,_REACTION_TIME_,4400
+1548347566,9c581db5ddac1421f5d71a0ef490dd36,Form,4,1,single-high,1,input,chair
+1548347566,9c581db5ddac1421f5d71a0ef490dd36,Form,4,1,single-high,1,_REACTION_TIME_,15567
+1548347566,9c581db5ddac1421f5d71a0ef490dd36,Form,8,0,comprehension,NULL,q1,Alex
+1548347566,9c581db5ddac1421f5d71a0ef490dd36,Form,8,0,comprehension,NULL,q2,green
+1548347566,9c581db5ddac1421f5d71a0ef490dd36,Form,8,0,comprehension,NULL,_REACTION_TIME_,6392
+1548347566,9c581db5ddac1421f5d71a0ef490dd36,Form,9,0,outro,NULL,nativeq,yes
+1548347566,9c581db5ddac1421f5d71a0ef490dd36,Form,9,0,outro,NULL,_REACTION_TIME_,6001
+#
+# Results on Thursday January 24 2019 16:32:48 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347568,d0de9518816f2adf992a76e0564adbf7,Form,0,0,intro,NULL,_REACTION_TIME_,2047
+1548347568,d0de9518816f2adf992a76e0564adbf7,Form,4,1,single-high,1,input,chair
+1548347568,d0de9518816f2adf992a76e0564adbf7,Form,4,1,single-high,1,_REACTION_TIME_,19197
+1548347568,d0de9518816f2adf992a76e0564adbf7,Form,8,0,comprehension,NULL,q1,Alex
+1548347568,d0de9518816f2adf992a76e0564adbf7,Form,8,0,comprehension,NULL,q2,green
+1548347568,d0de9518816f2adf992a76e0564adbf7,Form,8,0,comprehension,NULL,_REACTION_TIME_,6402
+1548347568,d0de9518816f2adf992a76e0564adbf7,Form,9,0,outro,NULL,nativeq,no
+1548347568,d0de9518816f2adf992a76e0564adbf7,Form,9,0,outro,NULL,_REACTION_TIME_,5929
+#
+# Results on Thursday January 24 2019 16:32:48 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347569,97eaba75c5dfd54b8c9e3ba34efd802f,Form,0,0,intro,NULL,_REACTION_TIME_,7122
+1548347569,97eaba75c5dfd54b8c9e3ba34efd802f,Form,4,1,single-high,1,input,chair
+1548347569,97eaba75c5dfd54b8c9e3ba34efd802f,Form,4,1,single-high,1,_REACTION_TIME_,15489
+1548347569,97eaba75c5dfd54b8c9e3ba34efd802f,Form,8,0,comprehension,NULL,q1,Alex
+1548347569,97eaba75c5dfd54b8c9e3ba34efd802f,Form,8,0,comprehension,NULL,q2,green
+1548347569,97eaba75c5dfd54b8c9e3ba34efd802f,Form,8,0,comprehension,NULL,_REACTION_TIME_,7125
+1548347569,97eaba75c5dfd54b8c9e3ba34efd802f,Form,9,0,outro,NULL,nativeq,yes
+1548347569,97eaba75c5dfd54b8c9e3ba34efd802f,Form,9,0,outro,NULL,_REACTION_TIME_,15279
+#
+# Results on Thursday January 24 2019 16:32:50 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347570,a9599af8e6235de00260386a7d44e313,Form,0,0,intro,NULL,_REACTION_TIME_,5386
+1548347570,a9599af8e6235de00260386a7d44e313,Form,4,1,single-high,1,input,chair
+1548347570,a9599af8e6235de00260386a7d44e313,Form,4,1,single-high,1,_REACTION_TIME_,9841
+1548347570,a9599af8e6235de00260386a7d44e313,Form,8,0,comprehension,NULL,q1,Alex
+1548347570,a9599af8e6235de00260386a7d44e313,Form,8,0,comprehension,NULL,q2,green
+1548347570,a9599af8e6235de00260386a7d44e313,Form,8,0,comprehension,NULL,_REACTION_TIME_,6204
+1548347570,a9599af8e6235de00260386a7d44e313,Form,9,0,outro,NULL,nativeq,yes
+1548347570,a9599af8e6235de00260386a7d44e313,Form,9,0,outro,NULL,_REACTION_TIME_,10123
+#
+# Results on Thursday January 24 2019 16:32:51 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 132
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347571,f951b0c1c7cce712848f47ba0d9db3c5,Form,0,0,intro,NULL,_REACTION_TIME_,3143
+1548347571,f951b0c1c7cce712848f47ba0d9db3c5,Form,4,1,single-high,1,input,onlychair
+1548347571,f951b0c1c7cce712848f47ba0d9db3c5,Form,4,1,single-high,1,_REACTION_TIME_,8302
+1548347571,f951b0c1c7cce712848f47ba0d9db3c5,Form,8,0,comprehension,NULL,q1,Alex
+1548347571,f951b0c1c7cce712848f47ba0d9db3c5,Form,8,0,comprehension,NULL,q2,green
+1548347571,f951b0c1c7cce712848f47ba0d9db3c5,Form,8,0,comprehension,NULL,_REACTION_TIME_,4197
+1548347571,f951b0c1c7cce712848f47ba0d9db3c5,Form,9,0,outro,NULL,nativeq,yes
+1548347571,f951b0c1c7cce712848f47ba0d9db3c5,Form,9,0,outro,NULL,_REACTION_TIME_,3246
+#
+# Results on Thursday January 24 2019 16:32:52 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 8.1.0; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 136
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347572,2ba52eb261493d4ed020d819dec25b10,Form,0,0,intro,NULL,_REACTION_TIME_,1695
+1548347572,2ba52eb261493d4ed020d819dec25b10,Form,4,1,single-high,1,input,footstool
+1548347572,2ba52eb261493d4ed020d819dec25b10,Form,4,1,single-high,1,_REACTION_TIME_,7023
+1548347572,2ba52eb261493d4ed020d819dec25b10,Form,8,0,comprehension,NULL,q1,Sam
+1548347572,2ba52eb261493d4ed020d819dec25b10,Form,8,0,comprehension,NULL,q2,green
+1548347572,2ba52eb261493d4ed020d819dec25b10,Form,8,0,comprehension,NULL,_REACTION_TIME_,5204
+1548347572,2ba52eb261493d4ed020d819dec25b10,Form,9,0,outro,NULL,nativeq,yes
+1548347572,2ba52eb261493d4ed020d819dec25b10,Form,9,0,outro,NULL,_REACTION_TIME_,5142
+#
+# Results on Thursday January 24 2019 16:32:52 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347572,e30d5f0fe25e6be7f44eb2811c225e9c,Form,0,0,intro,NULL,_REACTION_TIME_,4009
+1548347572,e30d5f0fe25e6be7f44eb2811c225e9c,Form,4,1,single-high,1,input,onlychair
+1548347572,e30d5f0fe25e6be7f44eb2811c225e9c,Form,4,1,single-high,1,_REACTION_TIME_,16846
+1548347572,e30d5f0fe25e6be7f44eb2811c225e9c,Form,8,0,comprehension,NULL,q1,Alex
+1548347572,e30d5f0fe25e6be7f44eb2811c225e9c,Form,8,0,comprehension,NULL,q2,green
+1548347572,e30d5f0fe25e6be7f44eb2811c225e9c,Form,8,0,comprehension,NULL,_REACTION_TIME_,6089
+1548347572,e30d5f0fe25e6be7f44eb2811c225e9c,Form,9,0,outro,NULL,nativeq,yes
+1548347572,e30d5f0fe25e6be7f44eb2811c225e9c,Form,9,0,outro,NULL,_REACTION_TIME_,15502
+#
+# Results on Thursday January 24 2019 16:32:52 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Turkernator/0.6.7 Chrome/66.0.3359.181 Electron/3.0.0 Safari/537.36
+# Design number was non-random = 132
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347573,855b7b431659cef8e1cf0ec504a350e7,Form,0,0,intro,NULL,_REACTION_TIME_,1848
+1548347573,855b7b431659cef8e1cf0ec504a350e7,Form,4,1,single-high,1,input,chair
+1548347573,855b7b431659cef8e1cf0ec504a350e7,Form,4,1,single-high,1,_REACTION_TIME_,10540
+1548347573,855b7b431659cef8e1cf0ec504a350e7,Form,8,0,comprehension,NULL,q1,Alex
+1548347573,855b7b431659cef8e1cf0ec504a350e7,Form,8,0,comprehension,NULL,q2,green
+1548347573,855b7b431659cef8e1cf0ec504a350e7,Form,8,0,comprehension,NULL,_REACTION_TIME_,4037
+1548347573,855b7b431659cef8e1cf0ec504a350e7,Form,9,0,outro,NULL,nativeq,yes
+1548347573,855b7b431659cef8e1cf0ec504a350e7,Form,9,0,outro,NULL,_REACTION_TIME_,3664
+#
+# Results on Thursday January 24 2019 16:32:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 129
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347573,b45659e103eea4cd837b4dbf41fd5037,Form,0,0,intro,NULL,_REACTION_TIME_,5413
+1548347573,b45659e103eea4cd837b4dbf41fd5037,Form,5,1,both-high,1,input,both
+1548347573,b45659e103eea4cd837b4dbf41fd5037,Form,5,1,both-high,1,_REACTION_TIME_,10615
+1548347573,b45659e103eea4cd837b4dbf41fd5037,Form,8,0,comprehension,NULL,q1,Alex
+1548347573,b45659e103eea4cd837b4dbf41fd5037,Form,8,0,comprehension,NULL,q2,green
+1548347573,b45659e103eea4cd837b4dbf41fd5037,Form,8,0,comprehension,NULL,_REACTION_TIME_,9816
+1548347573,b45659e103eea4cd837b4dbf41fd5037,Form,9,0,outro,NULL,nativeq,yes
+1548347573,b45659e103eea4cd837b4dbf41fd5037,Form,9,0,outro,NULL,_REACTION_TIME_,8614
+#
+# Results on Thursday January 24 2019 16:32:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347573,3e366f020dd278e8d4eb2df636f110ea,Form,0,0,intro,NULL,_REACTION_TIME_,3824
+1548347573,3e366f020dd278e8d4eb2df636f110ea,Form,4,1,single-high,1,input,onlychair
+1548347573,3e366f020dd278e8d4eb2df636f110ea,Form,4,1,single-high,1,_REACTION_TIME_,14754
+1548347573,3e366f020dd278e8d4eb2df636f110ea,Form,8,0,comprehension,NULL,q1,Alex
+1548347573,3e366f020dd278e8d4eb2df636f110ea,Form,8,0,comprehension,NULL,q2,green
+1548347573,3e366f020dd278e8d4eb2df636f110ea,Form,8,0,comprehension,NULL,_REACTION_TIME_,10846
+1548347573,3e366f020dd278e8d4eb2df636f110ea,Form,9,0,outro,NULL,nativeq,yes
+1548347573,3e366f020dd278e8d4eb2df636f110ea,Form,9,0,outro,NULL,_REACTION_TIME_,4941
+#
+# Results on Thursday January 24 2019 16:32:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347574,ee450a04881155d82c9c61d776d2b3fc,Form,0,0,intro,NULL,_REACTION_TIME_,8176
+1548347574,ee450a04881155d82c9c61d776d2b3fc,Form,4,1,single-high,1,input,chair
+1548347574,ee450a04881155d82c9c61d776d2b3fc,Form,4,1,single-high,1,_REACTION_TIME_,18592
+1548347574,ee450a04881155d82c9c61d776d2b3fc,Form,8,0,comprehension,NULL,q1,Alex
+1548347574,ee450a04881155d82c9c61d776d2b3fc,Form,8,0,comprehension,NULL,q2,green
+1548347574,ee450a04881155d82c9c61d776d2b3fc,Form,8,0,comprehension,NULL,_REACTION_TIME_,9316
+1548347574,ee450a04881155d82c9c61d776d2b3fc,Form,9,0,outro,NULL,nativeq,yes
+1548347574,ee450a04881155d82c9c61d776d2b3fc,Form,9,0,outro,NULL,_REACTION_TIME_,9276
+#
+# Results on Thursday January 24 2019 16:32:55 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 132
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347576,99bbf8d916e4abaf3052706cc173ba5e,Form,0,0,intro,NULL,_REACTION_TIME_,3529
+1548347576,99bbf8d916e4abaf3052706cc173ba5e,Form,4,1,single-high,1,input,chair
+1548347576,99bbf8d916e4abaf3052706cc173ba5e,Form,4,1,single-high,1,_REACTION_TIME_,10667
+1548347576,99bbf8d916e4abaf3052706cc173ba5e,Form,8,0,comprehension,NULL,q1,Alex
+1548347576,99bbf8d916e4abaf3052706cc173ba5e,Form,8,0,comprehension,NULL,q2,green
+1548347576,99bbf8d916e4abaf3052706cc173ba5e,Form,8,0,comprehension,NULL,_REACTION_TIME_,5673
+1548347576,99bbf8d916e4abaf3052706cc173ba5e,Form,9,0,outro,NULL,nativeq,yes
+1548347576,99bbf8d916e4abaf3052706cc173ba5e,Form,9,0,outro,NULL,_REACTION_TIME_,5118
+#
+# Results on Thursday January 24 2019 16:32:58 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 132
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347578,f11b9b1e880958a3ce69a96666bd1f94,Form,0,0,intro,NULL,_REACTION_TIME_,18184
+1548347578,f11b9b1e880958a3ce69a96666bd1f94,Form,4,1,single-high,1,input,onlychair
+1548347578,f11b9b1e880958a3ce69a96666bd1f94,Form,4,1,single-high,1,_REACTION_TIME_,7433
+1548347578,f11b9b1e880958a3ce69a96666bd1f94,Form,8,0,comprehension,NULL,q1,Alex
+1548347578,f11b9b1e880958a3ce69a96666bd1f94,Form,8,0,comprehension,NULL,q2,green
+1548347578,f11b9b1e880958a3ce69a96666bd1f94,Form,8,0,comprehension,NULL,_REACTION_TIME_,4665
+1548347578,f11b9b1e880958a3ce69a96666bd1f94,Form,9,0,outro,NULL,nativeq,yes
+1548347578,f11b9b1e880958a3ce69a96666bd1f94,Form,9,0,outro,NULL,_REACTION_TIME_,4060
+#
+# Results on Thursday January 24 2019 16:33:02 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347583,7aa7dea21188760f215595c49be36699,Form,0,0,intro,NULL,_REACTION_TIME_,4848
+1548347583,7aa7dea21188760f215595c49be36699,Form,4,1,single-high,1,input,onlychair
+1548347583,7aa7dea21188760f215595c49be36699,Form,4,1,single-high,1,_REACTION_TIME_,14599
+1548347583,7aa7dea21188760f215595c49be36699,Form,8,0,comprehension,NULL,q1,Alex
+1548347583,7aa7dea21188760f215595c49be36699,Form,8,0,comprehension,NULL,q2,green
+1548347583,7aa7dea21188760f215595c49be36699,Form,8,0,comprehension,NULL,_REACTION_TIME_,29206
+1548347583,7aa7dea21188760f215595c49be36699,Form,9,0,outro,NULL,nativeq,yes
+1548347583,7aa7dea21188760f215595c49be36699,Form,9,0,outro,NULL,_REACTION_TIME_,11157
+#
+# Results on Thursday January 24 2019 16:33:04 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347584,ff475e3945af21dc86afc1e8e3376e3d,Form,0,0,intro,NULL,_REACTION_TIME_,4002
+1548347584,ff475e3945af21dc86afc1e8e3376e3d,Form,4,1,single-high,1,input,chair
+1548347584,ff475e3945af21dc86afc1e8e3376e3d,Form,4,1,single-high,1,_REACTION_TIME_,14986
+1548347584,ff475e3945af21dc86afc1e8e3376e3d,Form,8,0,comprehension,NULL,q1,Alex
+1548347584,ff475e3945af21dc86afc1e8e3376e3d,Form,8,0,comprehension,NULL,q2,green
+1548347584,ff475e3945af21dc86afc1e8e3376e3d,Form,8,0,comprehension,NULL,_REACTION_TIME_,12068
+1548347584,ff475e3945af21dc86afc1e8e3376e3d,Form,9,0,outro,NULL,nativeq,yes
+1548347584,ff475e3945af21dc86afc1e8e3376e3d,Form,9,0,outro,NULL,_REACTION_TIME_,8272
+#
+# Results on Thursday January 24 2019 16:33:04 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347584,722d29c1c62e9754c2522343a78142fe,Form,0,0,intro,NULL,_REACTION_TIME_,6112
+1548347584,722d29c1c62e9754c2522343a78142fe,Form,4,1,single-high,1,input,chair
+1548347584,722d29c1c62e9754c2522343a78142fe,Form,4,1,single-high,1,_REACTION_TIME_,34651
+1548347584,722d29c1c62e9754c2522343a78142fe,Form,8,0,comprehension,NULL,q1,Sam
+1548347584,722d29c1c62e9754c2522343a78142fe,Form,8,0,comprehension,NULL,q2,green
+1548347584,722d29c1c62e9754c2522343a78142fe,Form,8,0,comprehension,NULL,_REACTION_TIME_,17471
+1548347584,722d29c1c62e9754c2522343a78142fe,Form,9,0,outro,NULL,nativeq,yes
+1548347584,722d29c1c62e9754c2522343a78142fe,Form,9,0,outro,NULL,_REACTION_TIME_,4610
+#
+# Results on Thursday January 24 2019 16:33:07 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 137
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347587,2ea39aecddd7217ff19b0afc0d9ce47a,Form,0,0,intro,NULL,_REACTION_TIME_,960
+1548347587,2ea39aecddd7217ff19b0afc0d9ce47a,Form,5,1,both-high,1,input,both
+1548347587,2ea39aecddd7217ff19b0afc0d9ce47a,Form,5,1,both-high,1,_REACTION_TIME_,11846
+1548347587,2ea39aecddd7217ff19b0afc0d9ce47a,Form,8,0,comprehension,NULL,q1,Alex
+1548347587,2ea39aecddd7217ff19b0afc0d9ce47a,Form,8,0,comprehension,NULL,q2,green
+1548347587,2ea39aecddd7217ff19b0afc0d9ce47a,Form,8,0,comprehension,NULL,_REACTION_TIME_,5150
+1548347587,2ea39aecddd7217ff19b0afc0d9ce47a,Form,9,0,outro,NULL,nativeq,yes
+1548347587,2ea39aecddd7217ff19b0afc0d9ce47a,Form,9,0,outro,NULL,_REACTION_TIME_,3678
+#
+# Results on Thursday January 24 2019 16:33:08 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 143
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347588,e8861b3b574824e673eded52fc103c0d,Form,0,0,intro,NULL,_REACTION_TIME_,712
+1548347588,e8861b3b574824e673eded52fc103c0d,Form,7,1,both-low,1,input,both
+1548347588,e8861b3b574824e673eded52fc103c0d,Form,7,1,both-low,1,_REACTION_TIME_,8790
+1548347588,e8861b3b574824e673eded52fc103c0d,Form,8,0,comprehension,NULL,q1,Alex
+1548347588,e8861b3b574824e673eded52fc103c0d,Form,8,0,comprehension,NULL,q2,green
+1548347588,e8861b3b574824e673eded52fc103c0d,Form,8,0,comprehension,NULL,_REACTION_TIME_,4152
+1548347588,e8861b3b574824e673eded52fc103c0d,Form,9,0,outro,NULL,nativeq,yes
+1548347588,e8861b3b574824e673eded52fc103c0d,Form,9,0,outro,NULL,_REACTION_TIME_,2301
+#
+# Results on Thursday January 24 2019 16:33:13 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 135
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347594,5764ac81137d76463d998b3cbffeb970,Form,0,0,intro,NULL,_REACTION_TIME_,3344
+1548347594,5764ac81137d76463d998b3cbffeb970,Form,7,1,both-low,1,input,both
+1548347594,5764ac81137d76463d998b3cbffeb970,Form,7,1,both-low,1,_REACTION_TIME_,20099
+1548347594,5764ac81137d76463d998b3cbffeb970,Form,8,0,comprehension,NULL,q1,Alex
+1548347594,5764ac81137d76463d998b3cbffeb970,Form,8,0,comprehension,NULL,q2,green
+1548347594,5764ac81137d76463d998b3cbffeb970,Form,8,0,comprehension,NULL,_REACTION_TIME_,5389
+1548347594,5764ac81137d76463d998b3cbffeb970,Form,9,0,outro,NULL,nativeq,yes
+1548347594,5764ac81137d76463d998b3cbffeb970,Form,9,0,outro,NULL,_REACTION_TIME_,8391
+#
+# Results on Thursday January 24 2019 16:33:13 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 132
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347594,7658a9499492ea1a5e25f371a940256e,Form,0,0,intro,NULL,_REACTION_TIME_,2511
+1548347594,7658a9499492ea1a5e25f371a940256e,Form,4,1,single-high,1,input,onlychair
+1548347594,7658a9499492ea1a5e25f371a940256e,Form,4,1,single-high,1,_REACTION_TIME_,19324
+1548347594,7658a9499492ea1a5e25f371a940256e,Form,8,0,comprehension,NULL,q1,Alex
+1548347594,7658a9499492ea1a5e25f371a940256e,Form,8,0,comprehension,NULL,q2,green
+1548347594,7658a9499492ea1a5e25f371a940256e,Form,8,0,comprehension,NULL,_REACTION_TIME_,6598
+1548347594,7658a9499492ea1a5e25f371a940256e,Form,9,0,outro,NULL,nativeq,yes
+1548347594,7658a9499492ea1a5e25f371a940256e,Form,9,0,outro,NULL,_REACTION_TIME_,6730
+#
+# Results on Thursday January 24 2019 16:33:17 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347598,9220ecd064c30362bfde203f3076cccc,Form,0,0,intro,NULL,_REACTION_TIME_,4852
+1548347598,9220ecd064c30362bfde203f3076cccc,Form,4,1,single-high,1,input,both
+1548347598,9220ecd064c30362bfde203f3076cccc,Form,4,1,single-high,1,_REACTION_TIME_,28526
+1548347598,9220ecd064c30362bfde203f3076cccc,Form,8,0,comprehension,NULL,q1,Alex
+1548347598,9220ecd064c30362bfde203f3076cccc,Form,8,0,comprehension,NULL,q2,green
+1548347598,9220ecd064c30362bfde203f3076cccc,Form,8,0,comprehension,NULL,_REACTION_TIME_,18682
+1548347598,9220ecd064c30362bfde203f3076cccc,Form,9,0,outro,NULL,nativeq,yes
+1548347598,9220ecd064c30362bfde203f3076cccc,Form,9,0,outro,NULL,_REACTION_TIME_,9657
+#
+# Results on Thursday January 24 2019 16:33:18 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 7.1.1; SM-T560NU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347599,0816df6c161e388355297bd80f2db321,Form,0,0,intro,NULL,_REACTION_TIME_,9269
+1548347599,0816df6c161e388355297bd80f2db321,Form,4,1,single-high,1,input,onlychair
+1548347599,0816df6c161e388355297bd80f2db321,Form,4,1,single-high,1,_REACTION_TIME_,15927
+1548347599,0816df6c161e388355297bd80f2db321,Form,8,0,comprehension,NULL,q1,Alex
+1548347599,0816df6c161e388355297bd80f2db321,Form,8,0,comprehension,NULL,q2,green
+1548347599,0816df6c161e388355297bd80f2db321,Form,8,0,comprehension,NULL,_REACTION_TIME_,9027
+1548347599,0816df6c161e388355297bd80f2db321,Form,9,0,outro,NULL,nativeq,yes
+1548347599,0816df6c161e388355297bd80f2db321,Form,9,0,outro,NULL,_REACTION_TIME_,27477
+#
+# Results on Thursday January 24 2019 16:33:19 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 OPR/57.0.3098.116
+# Design number was non-random = 133
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347599,49c50cb330b0e24c3ed67781e00a995d,Form,0,0,intro,NULL,_REACTION_TIME_,5315
+1548347599,49c50cb330b0e24c3ed67781e00a995d,Form,5,1,both-high,1,input,onlyfootstool
+1548347599,49c50cb330b0e24c3ed67781e00a995d,Form,5,1,both-high,1,_REACTION_TIME_,14823
+1548347599,49c50cb330b0e24c3ed67781e00a995d,Form,8,0,comprehension,NULL,q1,Alex
+1548347599,49c50cb330b0e24c3ed67781e00a995d,Form,8,0,comprehension,NULL,q2,green
+1548347599,49c50cb330b0e24c3ed67781e00a995d,Form,8,0,comprehension,NULL,_REACTION_TIME_,8430
+1548347599,49c50cb330b0e24c3ed67781e00a995d,Form,9,0,outro,NULL,nativeq,yes
+1548347599,49c50cb330b0e24c3ed67781e00a995d,Form,9,0,outro,NULL,_REACTION_TIME_,7878
+#
+# Results on Thursday January 24 2019 16:33:19 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 136
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347599,f8a82ea44e64e6bb155c3f3cb3c56da5,Form,0,0,intro,NULL,_REACTION_TIME_,5045
+1548347599,f8a82ea44e64e6bb155c3f3cb3c56da5,Form,4,1,single-high,1,input,onlychair
+1548347599,f8a82ea44e64e6bb155c3f3cb3c56da5,Form,4,1,single-high,1,_REACTION_TIME_,17045
+1548347599,f8a82ea44e64e6bb155c3f3cb3c56da5,Form,8,0,comprehension,NULL,q1,Alex
+1548347599,f8a82ea44e64e6bb155c3f3cb3c56da5,Form,8,0,comprehension,NULL,q2,green
+1548347599,f8a82ea44e64e6bb155c3f3cb3c56da5,Form,8,0,comprehension,NULL,_REACTION_TIME_,4289
+1548347599,f8a82ea44e64e6bb155c3f3cb3c56da5,Form,9,0,outro,NULL,nativeq,yes
+1548347599,f8a82ea44e64e6bb155c3f3cb3c56da5,Form,9,0,outro,NULL,_REACTION_TIME_,8183
+#
+# Results on Thursday January 24 2019 16:33:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347601,00ba8b1872f76dfa4c84112c3c945b9f,Form,0,0,intro,NULL,_REACTION_TIME_,5103
+1548347601,00ba8b1872f76dfa4c84112c3c945b9f,Form,4,1,single-high,1,input,onlychair
+1548347601,00ba8b1872f76dfa4c84112c3c945b9f,Form,4,1,single-high,1,_REACTION_TIME_,27469
+1548347601,00ba8b1872f76dfa4c84112c3c945b9f,Form,8,0,comprehension,NULL,q1,Alex
+1548347601,00ba8b1872f76dfa4c84112c3c945b9f,Form,8,0,comprehension,NULL,q2,green
+1548347601,00ba8b1872f76dfa4c84112c3c945b9f,Form,8,0,comprehension,NULL,_REACTION_TIME_,6955
+1548347601,00ba8b1872f76dfa4c84112c3c945b9f,Form,9,0,outro,NULL,nativeq,yes
+1548347601,00ba8b1872f76dfa4c84112c3c945b9f,Form,9,0,outro,NULL,_REACTION_TIME_,14625
+#
+# Results on Thursday January 24 2019 16:33:24 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347604,7a9979a980eacda4e4e96402b0f80a0c,Form,0,0,intro,NULL,_REACTION_TIME_,7770
+1548347604,7a9979a980eacda4e4e96402b0f80a0c,Form,4,1,single-high,1,input,onlychair
+1548347604,7a9979a980eacda4e4e96402b0f80a0c,Form,4,1,single-high,1,_REACTION_TIME_,22665
+1548347604,7a9979a980eacda4e4e96402b0f80a0c,Form,8,0,comprehension,NULL,q1,Alex
+1548347604,7a9979a980eacda4e4e96402b0f80a0c,Form,8,0,comprehension,NULL,q2,green
+1548347604,7a9979a980eacda4e4e96402b0f80a0c,Form,8,0,comprehension,NULL,_REACTION_TIME_,10457
+1548347604,7a9979a980eacda4e4e96402b0f80a0c,Form,9,0,outro,NULL,nativeq,yes
+1548347604,7a9979a980eacda4e4e96402b0f80a0c,Form,9,0,outro,NULL,_REACTION_TIME_,14219
+#
+# Results on Thursday January 24 2019 16:33:24 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 140
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347605,e20c8c14b716893eefaebb49d91dd9da,Form,0,0,intro,NULL,_REACTION_TIME_,7934
+1548347605,e20c8c14b716893eefaebb49d91dd9da,Form,4,1,single-high,1,input,chair
+1548347605,e20c8c14b716893eefaebb49d91dd9da,Form,4,1,single-high,1,_REACTION_TIME_,6376
+1548347605,e20c8c14b716893eefaebb49d91dd9da,Form,8,0,comprehension,NULL,q1,Alex
+1548347605,e20c8c14b716893eefaebb49d91dd9da,Form,8,0,comprehension,NULL,q2,green
+1548347605,e20c8c14b716893eefaebb49d91dd9da,Form,8,0,comprehension,NULL,_REACTION_TIME_,5131
+1548347605,e20c8c14b716893eefaebb49d91dd9da,Form,9,0,outro,NULL,nativeq,yes
+1548347605,e20c8c14b716893eefaebb49d91dd9da,Form,9,0,outro,NULL,_REACTION_TIME_,13217
+#
+# Results on Thursday January 24 2019 16:33:25 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 6.0.1; SM-S327VL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 133
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347605,30a274bdc74307d1ce7b88eb5e57ea64,Form,0,0,intro,NULL,_REACTION_TIME_,6187
+1548347605,30a274bdc74307d1ce7b88eb5e57ea64,Form,5,1,both-high,1,input,both
+1548347605,30a274bdc74307d1ce7b88eb5e57ea64,Form,5,1,both-high,1,_REACTION_TIME_,29548
+1548347605,30a274bdc74307d1ce7b88eb5e57ea64,Form,8,0,comprehension,NULL,q1,Sam
+1548347605,30a274bdc74307d1ce7b88eb5e57ea64,Form,8,0,comprehension,NULL,q2,green
+1548347605,30a274bdc74307d1ce7b88eb5e57ea64,Form,8,0,comprehension,NULL,_REACTION_TIME_,9811
+1548347605,30a274bdc74307d1ce7b88eb5e57ea64,Form,9,0,outro,NULL,nativeq,yes
+1548347605,30a274bdc74307d1ce7b88eb5e57ea64,Form,9,0,outro,NULL,_REACTION_TIME_,5985
+#
+# Results on Thursday January 24 2019 16:33:28 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 131
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347608,fa1aa62d4ee69b3492703546b0ca045a,Form,0,0,intro,NULL,_REACTION_TIME_,8618
+1548347608,fa1aa62d4ee69b3492703546b0ca045a,Form,7,1,both-low,1,input,both
+1548347608,fa1aa62d4ee69b3492703546b0ca045a,Form,7,1,both-low,1,_REACTION_TIME_,18156
+1548347608,fa1aa62d4ee69b3492703546b0ca045a,Form,8,0,comprehension,NULL,q1,Alex
+1548347608,fa1aa62d4ee69b3492703546b0ca045a,Form,8,0,comprehension,NULL,q2,green
+1548347608,fa1aa62d4ee69b3492703546b0ca045a,Form,8,0,comprehension,NULL,_REACTION_TIME_,11627
+1548347608,fa1aa62d4ee69b3492703546b0ca045a,Form,9,0,outro,NULL,nativeq,yes
+1548347608,fa1aa62d4ee69b3492703546b0ca045a,Form,9,0,outro,NULL,_REACTION_TIME_,7358
+#
+# Results on Thursday January 24 2019 16:33:29 UTC.
+# USER AGENT: Mozilla/5.0 (X11; CrOS x86_64 11151.113.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.127 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347609,448e7f65a1df2a89cc509c77e9e64383,Form,0,0,intro,NULL,_REACTION_TIME_,13928
+1548347609,448e7f65a1df2a89cc509c77e9e64383,Form,4,1,single-high,1,input,onlychair
+1548347609,448e7f65a1df2a89cc509c77e9e64383,Form,4,1,single-high,1,_REACTION_TIME_,23621
+1548347609,448e7f65a1df2a89cc509c77e9e64383,Form,8,0,comprehension,NULL,q1,Alex
+1548347609,448e7f65a1df2a89cc509c77e9e64383,Form,8,0,comprehension,NULL,q2,green
+1548347609,448e7f65a1df2a89cc509c77e9e64383,Form,8,0,comprehension,NULL,_REACTION_TIME_,6138
+1548347609,448e7f65a1df2a89cc509c77e9e64383,Form,9,0,outro,NULL,nativeq,yes
+1548347609,448e7f65a1df2a89cc509c77e9e64383,Form,9,0,outro,NULL,_REACTION_TIME_,9941
+#
+# Results on Thursday January 24 2019 16:33:29 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347609,8c57c2672671f52906d806f147f975f1,Form,0,0,intro,NULL,_REACTION_TIME_,3320
+1548347609,8c57c2672671f52906d806f147f975f1,Form,4,1,single-high,1,input,onlychair
+1548347609,8c57c2672671f52906d806f147f975f1,Form,4,1,single-high,1,_REACTION_TIME_,20578
+1548347609,8c57c2672671f52906d806f147f975f1,Form,8,0,comprehension,NULL,q1,Alex
+1548347609,8c57c2672671f52906d806f147f975f1,Form,8,0,comprehension,NULL,q2,green
+1548347609,8c57c2672671f52906d806f147f975f1,Form,8,0,comprehension,NULL,_REACTION_TIME_,46638
+1548347609,8c57c2672671f52906d806f147f975f1,Form,9,0,outro,NULL,nativeq,yes
+1548347609,8c57c2672671f52906d806f147f975f1,Form,9,0,outro,NULL,_REACTION_TIME_,8477
+#
+# Results on Thursday January 24 2019 16:33:33 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 155
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347613,8d08458e86c117873a1693687d7d71df,Form,0,0,intro,NULL,_REACTION_TIME_,3080
+1548347613,8d08458e86c117873a1693687d7d71df,Form,7,1,both-low,1,input,both
+1548347613,8d08458e86c117873a1693687d7d71df,Form,7,1,both-low,1,_REACTION_TIME_,6233
+1548347613,8d08458e86c117873a1693687d7d71df,Form,8,0,comprehension,NULL,q1,Alex
+1548347613,8d08458e86c117873a1693687d7d71df,Form,8,0,comprehension,NULL,q2,green
+1548347613,8d08458e86c117873a1693687d7d71df,Form,8,0,comprehension,NULL,_REACTION_TIME_,3855
+1548347613,8d08458e86c117873a1693687d7d71df,Form,9,0,outro,NULL,nativeq,yes
+1548347613,8d08458e86c117873a1693687d7d71df,Form,9,0,outro,NULL,_REACTION_TIME_,6324
+#
+# Results on Thursday January 24 2019 16:33:35 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 139
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347615,509f4b823aadb440efb1867c6f67cb68,Form,0,0,intro,NULL,_REACTION_TIME_,1712
+1548347615,509f4b823aadb440efb1867c6f67cb68,Form,7,1,both-low,1,input,both
+1548347615,509f4b823aadb440efb1867c6f67cb68,Form,7,1,both-low,1,_REACTION_TIME_,18326
+1548347615,509f4b823aadb440efb1867c6f67cb68,Form,8,0,comprehension,NULL,q1,Alex
+1548347615,509f4b823aadb440efb1867c6f67cb68,Form,8,0,comprehension,NULL,q2,green
+1548347615,509f4b823aadb440efb1867c6f67cb68,Form,8,0,comprehension,NULL,_REACTION_TIME_,5561
+1548347615,509f4b823aadb440efb1867c6f67cb68,Form,9,0,outro,NULL,nativeq,yes
+1548347615,509f4b823aadb440efb1867c6f67cb68,Form,9,0,outro,NULL,_REACTION_TIME_,10832
+#
+# Results on Thursday January 24 2019 16:33:35 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 139
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347616,06f8b6184f0b8a4db5d2043e52fbb6d3,Form,0,0,intro,NULL,_REACTION_TIME_,2256
+1548347616,06f8b6184f0b8a4db5d2043e52fbb6d3,Form,7,1,both-low,1,input,both
+1548347616,06f8b6184f0b8a4db5d2043e52fbb6d3,Form,7,1,both-low,1,_REACTION_TIME_,14286
+1548347616,06f8b6184f0b8a4db5d2043e52fbb6d3,Form,8,0,comprehension,NULL,q1,Alex
+1548347616,06f8b6184f0b8a4db5d2043e52fbb6d3,Form,8,0,comprehension,NULL,q2,green
+1548347616,06f8b6184f0b8a4db5d2043e52fbb6d3,Form,8,0,comprehension,NULL,_REACTION_TIME_,6670
+1548347616,06f8b6184f0b8a4db5d2043e52fbb6d3,Form,9,0,outro,NULL,nativeq,yes
+1548347616,06f8b6184f0b8a4db5d2043e52fbb6d3,Form,9,0,outro,NULL,_REACTION_TIME_,12102
+#
+# Results on Thursday January 24 2019 16:33:36 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 160
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347616,bac3e92930b859ad5ee41c2ad7096dbc,Form,0,0,intro,NULL,_REACTION_TIME_,1280
+1548347616,bac3e92930b859ad5ee41c2ad7096dbc,Form,4,1,single-high,1,input,onlychair
+1548347616,bac3e92930b859ad5ee41c2ad7096dbc,Form,4,1,single-high,1,_REACTION_TIME_,8083
+1548347616,bac3e92930b859ad5ee41c2ad7096dbc,Form,8,0,comprehension,NULL,q1,Alex
+1548347616,bac3e92930b859ad5ee41c2ad7096dbc,Form,8,0,comprehension,NULL,q2,green
+1548347616,bac3e92930b859ad5ee41c2ad7096dbc,Form,8,0,comprehension,NULL,_REACTION_TIME_,3249
+1548347616,bac3e92930b859ad5ee41c2ad7096dbc,Form,9,0,outro,NULL,nativeq,yes
+1548347616,bac3e92930b859ad5ee41c2ad7096dbc,Form,9,0,outro,NULL,_REACTION_TIME_,5188
+#
+# Results on Thursday January 24 2019 16:33:39 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 129
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347619,0bfde6e5edb0b9de7f8083e07f1d749d,Form,0,0,intro,NULL,_REACTION_TIME_,26015
+1548347619,0bfde6e5edb0b9de7f8083e07f1d749d,Form,5,1,both-high,1,input,both
+1548347619,0bfde6e5edb0b9de7f8083e07f1d749d,Form,5,1,both-high,1,_REACTION_TIME_,12138
+1548347619,0bfde6e5edb0b9de7f8083e07f1d749d,Form,8,0,comprehension,NULL,q1,Sam
+1548347619,0bfde6e5edb0b9de7f8083e07f1d749d,Form,8,0,comprehension,NULL,q2,green
+1548347619,0bfde6e5edb0b9de7f8083e07f1d749d,Form,8,0,comprehension,NULL,_REACTION_TIME_,8800
+1548347619,0bfde6e5edb0b9de7f8083e07f1d749d,Form,9,0,outro,NULL,nativeq,yes
+1548347619,0bfde6e5edb0b9de7f8083e07f1d749d,Form,9,0,outro,NULL,_REACTION_TIME_,19497
+#
+# Results on Thursday January 24 2019 16:33:42 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 132
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347623,717fd78667e6919ded1379ada1cd728e,Form,0,0,intro,NULL,_REACTION_TIME_,16500
+1548347623,717fd78667e6919ded1379ada1cd728e,Form,4,1,single-high,1,input,chair
+1548347623,717fd78667e6919ded1379ada1cd728e,Form,4,1,single-high,1,_REACTION_TIME_,24462
+1548347623,717fd78667e6919ded1379ada1cd728e,Form,8,0,comprehension,NULL,q1,Alex
+1548347623,717fd78667e6919ded1379ada1cd728e,Form,8,0,comprehension,NULL,q2,green
+1548347623,717fd78667e6919ded1379ada1cd728e,Form,8,0,comprehension,NULL,_REACTION_TIME_,5461
+1548347623,717fd78667e6919ded1379ada1cd728e,Form,9,0,outro,NULL,nativeq,yes
+1548347623,717fd78667e6919ded1379ada1cd728e,Form,9,0,outro,NULL,_REACTION_TIME_,14276
+#
+# Results on Thursday January 24 2019 16:33:43 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 136
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347623,3d6aa33d20cf0094a7dae48306bd38e3,Form,0,0,intro,NULL,_REACTION_TIME_,5950
+1548347623,3d6aa33d20cf0094a7dae48306bd38e3,Form,4,1,single-high,1,input,chair
+1548347623,3d6aa33d20cf0094a7dae48306bd38e3,Form,4,1,single-high,1,_REACTION_TIME_,15686
+1548347623,3d6aa33d20cf0094a7dae48306bd38e3,Form,8,0,comprehension,NULL,q1,Alex
+1548347623,3d6aa33d20cf0094a7dae48306bd38e3,Form,8,0,comprehension,NULL,q2,green
+1548347623,3d6aa33d20cf0094a7dae48306bd38e3,Form,8,0,comprehension,NULL,_REACTION_TIME_,6924
+1548347623,3d6aa33d20cf0094a7dae48306bd38e3,Form,9,0,outro,NULL,nativeq,yes
+1548347623,3d6aa33d20cf0094a7dae48306bd38e3,Form,9,0,outro,NULL,_REACTION_TIME_,14894
+#
+# Results on Thursday January 24 2019 16:33:56 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1
+# Design number was non-random = 137
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347637,90544145102528e14cb4e1625f6a408a,Form,0,0,intro,NULL,_REACTION_TIME_,1905
+1548347637,90544145102528e14cb4e1625f6a408a,Form,5,1,both-high,1,input,both
+1548347637,90544145102528e14cb4e1625f6a408a,Form,5,1,both-high,1,_REACTION_TIME_,33178
+1548347637,90544145102528e14cb4e1625f6a408a,Form,8,0,comprehension,NULL,q1,Alex
+1548347637,90544145102528e14cb4e1625f6a408a,Form,8,0,comprehension,NULL,q2,green
+1548347637,90544145102528e14cb4e1625f6a408a,Form,8,0,comprehension,NULL,_REACTION_TIME_,9837
+1548347637,90544145102528e14cb4e1625f6a408a,Form,9,0,outro,NULL,nativeq,yes
+1548347637,90544145102528e14cb4e1625f6a408a,Form,9,0,outro,NULL,_REACTION_TIME_,13801
+#
+# Results on Thursday January 24 2019 16:33:59 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 153
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347639,48636d66b35efcde4e5b19a883c446c9,Form,0,0,intro,NULL,_REACTION_TIME_,6916
+1548347639,48636d66b35efcde4e5b19a883c446c9,Form,5,1,both-high,1,input,both
+1548347639,48636d66b35efcde4e5b19a883c446c9,Form,5,1,both-high,1,_REACTION_TIME_,13223
+1548347639,48636d66b35efcde4e5b19a883c446c9,Form,8,0,comprehension,NULL,q1,Sam
+1548347639,48636d66b35efcde4e5b19a883c446c9,Form,8,0,comprehension,NULL,q2,green
+1548347639,48636d66b35efcde4e5b19a883c446c9,Form,8,0,comprehension,NULL,_REACTION_TIME_,17363
+1548347639,48636d66b35efcde4e5b19a883c446c9,Form,9,0,outro,NULL,nativeq,yes
+1548347639,48636d66b35efcde4e5b19a883c446c9,Form,9,0,outro,NULL,_REACTION_TIME_,8158
+#
+# Results on Thursday January 24 2019 16:34:05 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 169
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347646,c87c86cb60fb36ff05c6cbe30ae7dfb8,Form,0,0,intro,NULL,_REACTION_TIME_,1297
+1548347646,c87c86cb60fb36ff05c6cbe30ae7dfb8,Form,5,1,both-high,1,input,both
+1548347646,c87c86cb60fb36ff05c6cbe30ae7dfb8,Form,5,1,both-high,1,_REACTION_TIME_,12731
+1548347646,c87c86cb60fb36ff05c6cbe30ae7dfb8,Form,8,0,comprehension,NULL,q1,Alex
+1548347646,c87c86cb60fb36ff05c6cbe30ae7dfb8,Form,8,0,comprehension,NULL,q2,green
+1548347646,c87c86cb60fb36ff05c6cbe30ae7dfb8,Form,8,0,comprehension,NULL,_REACTION_TIME_,5402
+1548347646,c87c86cb60fb36ff05c6cbe30ae7dfb8,Form,9,0,outro,NULL,nativeq,yes
+1548347646,c87c86cb60fb36ff05c6cbe30ae7dfb8,Form,9,0,outro,NULL,_REACTION_TIME_,9020
+#
+# Results on Thursday January 24 2019 16:34:14 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 6.0; LGLS770) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 155
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347655,845ecb0f67541c5466b56c75a738f1a5,Form,0,0,intro,NULL,_REACTION_TIME_,11735
+1548347655,845ecb0f67541c5466b56c75a738f1a5,Form,7,1,both-low,1,input,both
+1548347655,845ecb0f67541c5466b56c75a738f1a5,Form,7,1,both-low,1,_REACTION_TIME_,14677
+1548347655,845ecb0f67541c5466b56c75a738f1a5,Form,8,0,comprehension,NULL,q1,Alex
+1548347655,845ecb0f67541c5466b56c75a738f1a5,Form,8,0,comprehension,NULL,q2,green
+1548347655,845ecb0f67541c5466b56c75a738f1a5,Form,8,0,comprehension,NULL,_REACTION_TIME_,7583
+1548347655,845ecb0f67541c5466b56c75a738f1a5,Form,9,0,outro,NULL,nativeq,yes
+1548347655,845ecb0f67541c5466b56c75a738f1a5,Form,9,0,outro,NULL,_REACTION_TIME_,8351
+#
+# Results on Thursday January 24 2019 16:34:17 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 146
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347658,42bf09226dc53b1ce6a9d7de02c20e6f,Form,0,0,intro,NULL,_REACTION_TIME_,17683
+1548347658,42bf09226dc53b1ce6a9d7de02c20e6f,Form,6,1,single-low,1,input,onlychair
+1548347658,42bf09226dc53b1ce6a9d7de02c20e6f,Form,6,1,single-low,1,_REACTION_TIME_,26004
+1548347658,42bf09226dc53b1ce6a9d7de02c20e6f,Form,8,0,comprehension,NULL,q1,Alex
+1548347658,42bf09226dc53b1ce6a9d7de02c20e6f,Form,8,0,comprehension,NULL,q2,tan
+1548347658,42bf09226dc53b1ce6a9d7de02c20e6f,Form,8,0,comprehension,NULL,_REACTION_TIME_,7322
+1548347658,42bf09226dc53b1ce6a9d7de02c20e6f,Form,9,0,outro,NULL,nativeq,yes
+1548347658,42bf09226dc53b1ce6a9d7de02c20e6f,Form,9,0,outro,NULL,_REACTION_TIME_,15902
+#
+# Results on Thursday January 24 2019 16:34:18 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 8.0.0; SM-G935V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+# Design number was non-random = 128
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347658,1818b00e58278c93c8598247096be83a,Form,0,0,intro,NULL,_REACTION_TIME_,7350
+1548347658,1818b00e58278c93c8598247096be83a,Form,4,1,single-high,1,input,chair
+1548347658,1818b00e58278c93c8598247096be83a,Form,4,1,single-high,1,_REACTION_TIME_,5591
+1548347658,1818b00e58278c93c8598247096be83a,Form,8,0,comprehension,NULL,q1,Alex
+1548347658,1818b00e58278c93c8598247096be83a,Form,8,0,comprehension,NULL,q2,green
+1548347658,1818b00e58278c93c8598247096be83a,Form,8,0,comprehension,NULL,_REACTION_TIME_,5949
+1548347658,1818b00e58278c93c8598247096be83a,Form,9,0,outro,NULL,nativeq,yes
+1548347658,1818b00e58278c93c8598247096be83a,Form,9,0,outro,NULL,_REACTION_TIME_,5854
+#
+# Results on Thursday January 24 2019 16:34:36 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 181
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347676,2a554a2379b2ad0a97fa3cc47f09c632,Form,0,0,intro,NULL,_REACTION_TIME_,1903
+1548347676,2a554a2379b2ad0a97fa3cc47f09c632,Form,5,1,both-high,1,input,both
+1548347676,2a554a2379b2ad0a97fa3cc47f09c632,Form,5,1,both-high,1,_REACTION_TIME_,7457
+1548347676,2a554a2379b2ad0a97fa3cc47f09c632,Form,8,0,comprehension,NULL,q1,Alex
+1548347676,2a554a2379b2ad0a97fa3cc47f09c632,Form,8,0,comprehension,NULL,q2,green
+1548347676,2a554a2379b2ad0a97fa3cc47f09c632,Form,8,0,comprehension,NULL,_REACTION_TIME_,7951
+1548347676,2a554a2379b2ad0a97fa3cc47f09c632,Form,9,0,outro,NULL,nativeq,yes
+1548347676,2a554a2379b2ad0a97fa3cc47f09c632,Form,9,0,outro,NULL,_REACTION_TIME_,6723
+#
+# Results on Thursday January 24 2019 16:34:47 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 182
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347688,5913a1ae9eb87527462decc41a53fc49,Form,0,0,intro,NULL,_REACTION_TIME_,1050
+1548347688,5913a1ae9eb87527462decc41a53fc49,Form,6,1,single-low,1,input,footstool
+1548347688,5913a1ae9eb87527462decc41a53fc49,Form,6,1,single-low,1,_REACTION_TIME_,6029
+1548347688,5913a1ae9eb87527462decc41a53fc49,Form,8,0,comprehension,NULL,q1,Alex
+1548347688,5913a1ae9eb87527462decc41a53fc49,Form,8,0,comprehension,NULL,q2,tan
+1548347688,5913a1ae9eb87527462decc41a53fc49,Form,8,0,comprehension,NULL,_REACTION_TIME_,17934
+1548347688,5913a1ae9eb87527462decc41a53fc49,Form,9,0,outro,NULL,nativeq,yes
+1548347688,5913a1ae9eb87527462decc41a53fc49,Form,9,0,outro,NULL,_REACTION_TIME_,7340
+#
+# Results on Thursday January 24 2019 16:34:49 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 172
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347690,fc7c01e0f5f8c526e343640811fddba9,Form,0,0,intro,NULL,_REACTION_TIME_,2190
+1548347690,fc7c01e0f5f8c526e343640811fddba9,Form,4,1,single-high,1,input,onlychair
+1548347690,fc7c01e0f5f8c526e343640811fddba9,Form,4,1,single-high,1,_REACTION_TIME_,19190
+1548347690,fc7c01e0f5f8c526e343640811fddba9,Form,8,0,comprehension,NULL,q1,Alex
+1548347690,fc7c01e0f5f8c526e343640811fddba9,Form,8,0,comprehension,NULL,q2,tan
+1548347690,fc7c01e0f5f8c526e343640811fddba9,Form,8,0,comprehension,NULL,_REACTION_TIME_,5989
+1548347690,fc7c01e0f5f8c526e343640811fddba9,Form,9,0,outro,NULL,nativeq,yes
+1548347690,fc7c01e0f5f8c526e343640811fddba9,Form,9,0,outro,NULL,_REACTION_TIME_,31589
+#
+# Results on Thursday January 24 2019 16:34:50 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 178
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347690,bf6ecf9ac61848500869a3133b136063,Form,0,0,intro,NULL,_REACTION_TIME_,4773
+1548347690,bf6ecf9ac61848500869a3133b136063,Form,6,1,single-low,1,input,onlyfootstool
+1548347690,bf6ecf9ac61848500869a3133b136063,Form,6,1,single-low,1,_REACTION_TIME_,12221
+1548347690,bf6ecf9ac61848500869a3133b136063,Form,8,0,comprehension,NULL,q1,Alex
+1548347690,bf6ecf9ac61848500869a3133b136063,Form,8,0,comprehension,NULL,q2,green
+1548347690,bf6ecf9ac61848500869a3133b136063,Form,8,0,comprehension,NULL,_REACTION_TIME_,13148
+1548347690,bf6ecf9ac61848500869a3133b136063,Form,9,0,outro,NULL,nativeq,yes
+1548347690,bf6ecf9ac61848500869a3133b136063,Form,9,0,outro,NULL,_REACTION_TIME_,4420
+#
+# Results on Thursday January 24 2019 16:34:50 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 173
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347691,8a8a0699ae913f4553d6a576eb897791,Form,0,0,intro,NULL,_REACTION_TIME_,1804
+1548347691,8a8a0699ae913f4553d6a576eb897791,Form,5,1,both-high,1,input,footstool
+1548347691,8a8a0699ae913f4553d6a576eb897791,Form,5,1,both-high,1,_REACTION_TIME_,38058
+1548347691,8a8a0699ae913f4553d6a576eb897791,Form,8,0,comprehension,NULL,q1,Alex
+1548347691,8a8a0699ae913f4553d6a576eb897791,Form,8,0,comprehension,NULL,q2,green
+1548347691,8a8a0699ae913f4553d6a576eb897791,Form,8,0,comprehension,NULL,_REACTION_TIME_,18071
+1548347691,8a8a0699ae913f4553d6a576eb897791,Form,9,0,outro,NULL,nativeq,yes
+1548347691,8a8a0699ae913f4553d6a576eb897791,Form,9,0,outro,NULL,_REACTION_TIME_,5244
+#
+# Results on Thursday January 24 2019 16:34:55 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 180
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347695,4807fb185a03a1c17aec273e28d428c9,Form,0,0,intro,NULL,_REACTION_TIME_,1491
+1548347695,4807fb185a03a1c17aec273e28d428c9,Form,4,1,single-high,1,input,onlychair
+1548347695,4807fb185a03a1c17aec273e28d428c9,Form,4,1,single-high,1,_REACTION_TIME_,8500
+1548347695,4807fb185a03a1c17aec273e28d428c9,Form,8,0,comprehension,NULL,q1,Alex
+1548347695,4807fb185a03a1c17aec273e28d428c9,Form,8,0,comprehension,NULL,q2,green
+1548347695,4807fb185a03a1c17aec273e28d428c9,Form,8,0,comprehension,NULL,_REACTION_TIME_,10483
+1548347695,4807fb185a03a1c17aec273e28d428c9,Form,9,0,outro,NULL,nativeq,yes
+1548347695,4807fb185a03a1c17aec273e28d428c9,Form,9,0,outro,NULL,_REACTION_TIME_,14330
+#
+# Results on Thursday January 24 2019 16:35:01 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 180
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347701,a6526e7db8f021a0fbfafec4abe4d3c7,Form,0,0,intro,NULL,_REACTION_TIME_,36325
+1548347701,a6526e7db8f021a0fbfafec4abe4d3c7,Form,4,1,single-high,1,input,onlychair
+1548347701,a6526e7db8f021a0fbfafec4abe4d3c7,Form,4,1,single-high,1,_REACTION_TIME_,8551
+1548347701,a6526e7db8f021a0fbfafec4abe4d3c7,Form,8,0,comprehension,NULL,q1,Alex
+1548347701,a6526e7db8f021a0fbfafec4abe4d3c7,Form,8,0,comprehension,NULL,q2,green
+1548347701,a6526e7db8f021a0fbfafec4abe4d3c7,Form,8,0,comprehension,NULL,_REACTION_TIME_,4471
+1548347701,a6526e7db8f021a0fbfafec4abe4d3c7,Form,9,0,outro,NULL,nativeq,yes
+1548347701,a6526e7db8f021a0fbfafec4abe4d3c7,Form,9,0,outro,NULL,_REACTION_TIME_,6558
+#
+# Results on Thursday January 24 2019 16:35:06 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 160
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347706,f0075f6dc8dfc95d0c527a9fdae92476,Form,0,0,intro,NULL,_REACTION_TIME_,30342
+1548347706,f0075f6dc8dfc95d0c527a9fdae92476,Form,4,1,single-high,1,input,chair
+1548347706,f0075f6dc8dfc95d0c527a9fdae92476,Form,4,1,single-high,1,_REACTION_TIME_,17112
+1548347706,f0075f6dc8dfc95d0c527a9fdae92476,Form,8,0,comprehension,NULL,q1,Alex
+1548347706,f0075f6dc8dfc95d0c527a9fdae92476,Form,8,0,comprehension,NULL,q2,green
+1548347706,f0075f6dc8dfc95d0c527a9fdae92476,Form,8,0,comprehension,NULL,_REACTION_TIME_,10027
+1548347706,f0075f6dc8dfc95d0c527a9fdae92476,Form,9,0,outro,NULL,nativeq,yes
+1548347706,f0075f6dc8dfc95d0c527a9fdae92476,Form,9,0,outro,NULL,_REACTION_TIME_,23364
+#
+# Results on Thursday January 24 2019 16:35:27 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 183
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347727,c147333f71d5da7952a15a6f12c239d0,Form,0,0,intro,NULL,_REACTION_TIME_,1629
+1548347727,c147333f71d5da7952a15a6f12c239d0,Form,7,1,both-low,1,input,footstool
+1548347727,c147333f71d5da7952a15a6f12c239d0,Form,7,1,both-low,1,_REACTION_TIME_,9223
+1548347727,c147333f71d5da7952a15a6f12c239d0,Form,8,0,comprehension,NULL,q1,Alex
+1548347727,c147333f71d5da7952a15a6f12c239d0,Form,8,0,comprehension,NULL,q2,green
+1548347727,c147333f71d5da7952a15a6f12c239d0,Form,8,0,comprehension,NULL,_REACTION_TIME_,2487
+1548347727,c147333f71d5da7952a15a6f12c239d0,Form,9,0,outro,NULL,nativeq,yes
+1548347727,c147333f71d5da7952a15a6f12c239d0,Form,9,0,outro,NULL,_REACTION_TIME_,7679
+#
+# Results on Thursday January 24 2019 16:35:38 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 194
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347739,ebfbdb19e810a06d15c4dcd37f5a4794,Form,0,0,intro,NULL,_REACTION_TIME_,2243
+1548347739,ebfbdb19e810a06d15c4dcd37f5a4794,Form,6,1,single-low,1,input,onlyfootstool
+1548347739,ebfbdb19e810a06d15c4dcd37f5a4794,Form,6,1,single-low,1,_REACTION_TIME_,9935
+1548347739,ebfbdb19e810a06d15c4dcd37f5a4794,Form,8,0,comprehension,NULL,q1,Alex
+1548347739,ebfbdb19e810a06d15c4dcd37f5a4794,Form,8,0,comprehension,NULL,q2,green
+1548347739,ebfbdb19e810a06d15c4dcd37f5a4794,Form,8,0,comprehension,NULL,_REACTION_TIME_,3508
+1548347739,ebfbdb19e810a06d15c4dcd37f5a4794,Form,9,0,outro,NULL,nativeq,yes
+1548347739,ebfbdb19e810a06d15c4dcd37f5a4794,Form,9,0,outro,NULL,_REACTION_TIME_,4059
+#
+# Results on Thursday January 24 2019 16:35:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 189
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347742,77eae1e2fa9c568e96450dcf48728e21,Form,0,0,intro,NULL,_REACTION_TIME_,13200
+1548347742,77eae1e2fa9c568e96450dcf48728e21,Form,5,1,both-high,1,input,both
+1548347742,77eae1e2fa9c568e96450dcf48728e21,Form,5,1,both-high,1,_REACTION_TIME_,6088
+1548347742,77eae1e2fa9c568e96450dcf48728e21,Form,8,0,comprehension,NULL,q1,Sam
+1548347742,77eae1e2fa9c568e96450dcf48728e21,Form,8,0,comprehension,NULL,q2,green
+1548347742,77eae1e2fa9c568e96450dcf48728e21,Form,8,0,comprehension,NULL,_REACTION_TIME_,7168
+1548347742,77eae1e2fa9c568e96450dcf48728e21,Form,9,0,outro,NULL,nativeq,yes
+1548347742,77eae1e2fa9c568e96450dcf48728e21,Form,9,0,outro,NULL,_REACTION_TIME_,6816
+#
+# Results on Thursday January 24 2019 16:35:42 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 189
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347743,5f6ea6171b102ee8c10696021691b5ec,Form,0,0,intro,NULL,_REACTION_TIME_,4110
+1548347743,5f6ea6171b102ee8c10696021691b5ec,Form,5,1,both-high,1,input,both
+1548347743,5f6ea6171b102ee8c10696021691b5ec,Form,5,1,both-high,1,_REACTION_TIME_,16862
+1548347743,5f6ea6171b102ee8c10696021691b5ec,Form,8,0,comprehension,NULL,q1,Alex
+1548347743,5f6ea6171b102ee8c10696021691b5ec,Form,8,0,comprehension,NULL,q2,green
+1548347743,5f6ea6171b102ee8c10696021691b5ec,Form,8,0,comprehension,NULL,_REACTION_TIME_,6350
+1548347743,5f6ea6171b102ee8c10696021691b5ec,Form,9,0,outro,NULL,nativeq,yes
+1548347743,5f6ea6171b102ee8c10696021691b5ec,Form,9,0,outro,NULL,_REACTION_TIME_,9921
+#
+# Results on Thursday January 24 2019 16:35:44 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 160
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347744,07d44b53d40ab81c5d43d579c2081842,Form,0,0,intro,NULL,_REACTION_TIME_,66534
+1548347744,07d44b53d40ab81c5d43d579c2081842,Form,4,1,single-high,1,input,onlychair
+1548347744,07d44b53d40ab81c5d43d579c2081842,Form,4,1,single-high,1,_REACTION_TIME_,15099
+1548347744,07d44b53d40ab81c5d43d579c2081842,Form,8,0,comprehension,NULL,q1,Sam
+1548347744,07d44b53d40ab81c5d43d579c2081842,Form,8,0,comprehension,NULL,q2,green
+1548347744,07d44b53d40ab81c5d43d579c2081842,Form,8,0,comprehension,NULL,_REACTION_TIME_,4885
+1548347744,07d44b53d40ab81c5d43d579c2081842,Form,9,0,outro,NULL,nativeq,yes
+1548347744,07d44b53d40ab81c5d43d579c2081842,Form,9,0,outro,NULL,_REACTION_TIME_,19674
+#
+# Results on Thursday January 24 2019 16:35:54 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Design number was non-random = 186
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347755,033690bbd2f5b39ac57bb26db426b200,Form,0,0,intro,NULL,_REACTION_TIME_,11895
+1548347755,033690bbd2f5b39ac57bb26db426b200,Form,6,1,single-low,1,input,onlyfootstool
+1548347755,033690bbd2f5b39ac57bb26db426b200,Form,6,1,single-low,1,_REACTION_TIME_,10512
+1548347755,033690bbd2f5b39ac57bb26db426b200,Form,8,0,comprehension,NULL,q1,Alex
+1548347755,033690bbd2f5b39ac57bb26db426b200,Form,8,0,comprehension,NULL,q2,green
+1548347755,033690bbd2f5b39ac57bb26db426b200,Form,8,0,comprehension,NULL,_REACTION_TIME_,17154
+1548347755,033690bbd2f5b39ac57bb26db426b200,Form,9,0,outro,NULL,nativeq,yes
+1548347755,033690bbd2f5b39ac57bb26db426b200,Form,9,0,outro,NULL,_REACTION_TIME_,12725
+#
+# Results on Thursday January 24 2019 16:35:58 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 180
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347758,9da8492e4b1e88fb825c58ad039a67d5,Form,0,0,intro,NULL,_REACTION_TIME_,26323
+1548347758,9da8492e4b1e88fb825c58ad039a67d5,Form,4,1,single-high,1,input,onlyfootstool
+1548347758,9da8492e4b1e88fb825c58ad039a67d5,Form,4,1,single-high,1,_REACTION_TIME_,48323
+1548347758,9da8492e4b1e88fb825c58ad039a67d5,Form,8,0,comprehension,NULL,q1,Alex
+1548347758,9da8492e4b1e88fb825c58ad039a67d5,Form,8,0,comprehension,NULL,q2,green
+1548347758,9da8492e4b1e88fb825c58ad039a67d5,Form,8,0,comprehension,NULL,_REACTION_TIME_,17048
+1548347758,9da8492e4b1e88fb825c58ad039a67d5,Form,9,0,outro,NULL,nativeq,yes
+1548347758,9da8492e4b1e88fb825c58ad039a67d5,Form,9,0,outro,NULL,_REACTION_TIME_,14068
+#
+# Results on Thursday January 24 2019 16:36:25 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.0; rv:52.0) Gecko/20100101 Firefox/52.0
+# Design number was non-random = 187
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347786,c409995e3ae7ca5844350165dda2b7a8,Form,0,0,intro,NULL,_REACTION_TIME_,10390
+1548347786,c409995e3ae7ca5844350165dda2b7a8,Form,7,1,both-low,1,input,footstool
+1548347786,c409995e3ae7ca5844350165dda2b7a8,Form,7,1,both-low,1,_REACTION_TIME_,44512
+1548347786,c409995e3ae7ca5844350165dda2b7a8,Form,8,0,comprehension,NULL,q1,Alex
+1548347786,c409995e3ae7ca5844350165dda2b7a8,Form,8,0,comprehension,NULL,q2,green
+1548347786,c409995e3ae7ca5844350165dda2b7a8,Form,8,0,comprehension,NULL,_REACTION_TIME_,8928
+1548347786,c409995e3ae7ca5844350165dda2b7a8,Form,9,0,outro,NULL,nativeq,yes
+1548347786,c409995e3ae7ca5844350165dda2b7a8,Form,9,0,outro,NULL,_REACTION_TIME_,7622
+#
+# Results on Thursday January 24 2019 16:36:26 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 191
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347786,600973c1a96c2faac47f643ca3cccf06,Form,0,0,intro,NULL,_REACTION_TIME_,24627
+1548347786,600973c1a96c2faac47f643ca3cccf06,Form,7,1,both-low,1,input,both
+1548347786,600973c1a96c2faac47f643ca3cccf06,Form,7,1,both-low,1,_REACTION_TIME_,16030
+1548347786,600973c1a96c2faac47f643ca3cccf06,Form,8,0,comprehension,NULL,q1,Alex
+1548347786,600973c1a96c2faac47f643ca3cccf06,Form,8,0,comprehension,NULL,q2,green
+1548347786,600973c1a96c2faac47f643ca3cccf06,Form,8,0,comprehension,NULL,_REACTION_TIME_,7658
+1548347786,600973c1a96c2faac47f643ca3cccf06,Form,9,0,outro,NULL,nativeq,yes
+1548347786,600973c1a96c2faac47f643ca3cccf06,Form,9,0,outro,NULL,_REACTION_TIME_,22147
+#
+# Results on Thursday January 24 2019 16:37:00 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 201
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347821,1af280abad0716f75562553554ff3d3f,Form,0,0,intro,NULL,_REACTION_TIME_,10602
+1548347821,1af280abad0716f75562553554ff3d3f,Form,5,1,both-high,1,input,both
+1548347821,1af280abad0716f75562553554ff3d3f,Form,5,1,both-high,1,_REACTION_TIME_,10447
+1548347821,1af280abad0716f75562553554ff3d3f,Form,8,0,comprehension,NULL,q1,Alex
+1548347821,1af280abad0716f75562553554ff3d3f,Form,8,0,comprehension,NULL,q2,green
+1548347821,1af280abad0716f75562553554ff3d3f,Form,8,0,comprehension,NULL,_REACTION_TIME_,7309
+1548347821,1af280abad0716f75562553554ff3d3f,Form,9,0,outro,NULL,nativeq,yes
+1548347821,1af280abad0716f75562553554ff3d3f,Form,9,0,outro,NULL,_REACTION_TIME_,15059
+#
+# Results on Thursday January 24 2019 16:37:21 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+# Design number was non-random = 203
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347841,352c4963a73d59e9d0b932beba33697c,Form,0,0,intro,NULL,_REACTION_TIME_,1127
+1548347841,352c4963a73d59e9d0b932beba33697c,Form,7,1,both-low,1,input,both
+1548347841,352c4963a73d59e9d0b932beba33697c,Form,7,1,both-low,1,_REACTION_TIME_,8851
+1548347841,352c4963a73d59e9d0b932beba33697c,Form,8,0,comprehension,NULL,q1,Sam
+1548347841,352c4963a73d59e9d0b932beba33697c,Form,8,0,comprehension,NULL,q2,green
+1548347841,352c4963a73d59e9d0b932beba33697c,Form,8,0,comprehension,NULL,_REACTION_TIME_,4613
+1548347841,352c4963a73d59e9d0b932beba33697c,Form,9,0,outro,NULL,nativeq,yes
+1548347841,352c4963a73d59e9d0b932beba33697c,Form,9,0,outro,NULL,_REACTION_TIME_,3237
+#
+# Results on Thursday January 24 2019 16:37:47 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 199
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1548347867,a2e6035bb007bf92d3440682bf677a32,Form,0,0,intro,NULL,_REACTION_TIME_,13649
+1548347867,a2e6035bb007bf92d3440682bf677a32,Form,7,1,both-low,1,input,both
+1548347867,a2e6035bb007bf92d3440682bf677a32,Form,7,1,both-low,1,_REACTION_TIME_,17299
+1548347867,a2e6035bb007bf92d3440682bf677a32,Form,8,0,comprehension,NULL,q1,Alex
+1548347867,a2e6035bb007bf92d3440682bf677a32,Form,8,0,comprehension,NULL,q2,green
+1548347867,a2e6035bb007bf92d3440682bf677a32,Form,8,0,comprehension,NULL,_REACTION_TIME_,21273
+1548347867,a2e6035bb007bf92d3440682bf677a32,Form,9,0,outro,NULL,nativeq,yes
+1548347867,a2e6035bb007bf92d3440682bf677a32,Form,9,0,outro,NULL,_REACTION_TIME_,19574

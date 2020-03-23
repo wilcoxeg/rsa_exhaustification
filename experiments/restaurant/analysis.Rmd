@@ -1,0 +1,266 @@
+---
+title: "Resto Priors Experiment"
+output: html_notebook
+---
+
+```{r}
+
+library(tidyverse)
+library(brms)
+library(lme4)
+library(lmerTest)
+library(plotrix)
+library(stringr)
+library(readxl)
+library(RColorBrewer)
+library(Hmisc)
+library(Cairo)
+```
+
+# Priors
+
+Read in results from priors experiment and plot them against the price of the deal.
+
+```{r}
+
+d = read.csv("./data/priors.csv", comment = "#", header=F, col.names = c("time", "participant", "controller", "item", "element", "type", "group", "field_name", "field_value", "correct", "response_time"))
+
+d = d %>%
+  mutate(field_name = as.character(field_name)) %>%
+  mutate(field_name = if_else(endsWith(field_name, "</p>"), "critical", field_name)) %>%
+  select(-controller, -item, -element, -group, -correct, -response_time) %>%
+  filter(field_name != "_REACTION_TIME_") %>%
+  group_by(time, participant) %>%
+    mutate(condition = type[1]) %>%
+  ungroup() %>%
+  select(-type) %>%
+  spread(field_name, field_value) %>%
+  filter(q1 == "Alex" & q2 == "no" & nativeq == "yes") %>%
+  select(-q1, -q2, -nativeq) %>%
+  drop_na() %>%
+  separate(condition, sep="-", into=c("prior", "price")) %>%
+  select(-prior, -time, -participant) %>%
+  mutate(critical = as.numeric(as.character(critical))) %>%
+  mutate(critical = (critical - 1) / 9) %>%
+  mutate(price = as.numeric(as.character(price)))
+
+d_means = d %>%
+  #mutate(price=factor(price, levels=c("15", "16", "18", "20", "22", "24"))) %>%
+  group_by(price) %>%
+  summarise(m = mean(critical),
+              s=std.error(critical),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+  ungroup()
+
+ggplot() +
+  #geom_smooth(data=d,  method = "lm", aes(x=price, y=critical, color=price), alpha=0.5) +
+  
+  stat_smooth(data=d, geom='smooth', alpha=0.2, method="lm", aes(x=price, y=critical, color=price)) +
+  geom_point(data=d_means, stat="identity", position="dodge", size=4, aes(x=price, y=m, color=price)) +
+  geom_errorbar(data=d_means, width=.1, alpha=1, aes(x=price, ymax=upper, ymin=lower, color=price)) +
+  ylab("Liklihood of Ordering Both") +
+  xlab("Cost of Deal") +
+  ggtitle("Restaurant Priors Experiment") +
+  theme(legend.position = 'none',
+        axis.text=element_text(size=14),
+        title=element_text(size=14),
+        legend.text=element_text(size=14),
+        axis.title=element_text(size=14),
+        strip.text.x = element_text(size = 14))
+
+
+#ggsave("priors.png",height=3.5,width=5)
+
+```
+
+## Interpretation Experiment
+
+Read in results from interpretation experiment.
+
+```{r}
+d = read.csv("./data/interpretation.csv", comment = "#", header=F, col.names = c("time", "participant", "controller", "item", "element", "type", "group", "field_name", "field_value", "correct", "response_time"))
+
+d = d %>%
+  mutate(field_name = as.character(field_name)) %>%
+  mutate(field_name = if_else(endsWith(field_name, "</p>"), "critical", field_name)) %>%
+  select(-controller, -item, -element, -group, -correct, -response_time) %>%
+  filter(field_name != "_REACTION_TIME_") %>%
+  group_by(time, participant) %>%
+    mutate(condition = type[1]) %>%
+  ungroup() %>%
+  select(-type) %>%
+  spread(field_name, field_value) %>%
+  separate(condition, sep="-", into=c("prior", "price")) %>%
+  select(-prior, -time, -participant) %>%
+  mutate(critical = as.numeric(as.character(critical)),
+         price = as.numeric(as.character(price)),
+         q2 = as.numeric(as.character(price))) %>%
+  filter(q1 == "Alex" & (q2 == price) & nativeq == "yes") %>%
+  drop_na() %>%
+  select(-nativeq, -q1, -q2) %>%
+  mutate(critical = (critical-1)/9)%>%
+  mutate(model = "human")
+```
+
+Manually input the results of the best-fitting RSA model.
+
+```{r}
+d_rsa = data.frame(
+  price = c(15, 16, 18, 20, 22, 24),
+  critical = c(0.696, 0.647, 0.567, 0.564, 0.412, 0.193),
+  model = c("RSA", "RSA", "RSA", "RSA", "RSA", "RSA"))
+
+d_rsa_fix = data.frame(
+  price = c(15, 16, 18, 20, 22, 24),
+  critical = c(0.827, 0.793, 0.734, 0.732, 0.607, 0.381),
+  model = c("RSA-fixed", "RSA-fixed", "RSA-fixed", "RSA-fixed", "RSA-fixed", "RSA-fixed"))
+
+d = rbind(d, d_rsa, d_rsa_fix)
+
+d = d %>%
+  mutate(price=factor(price, levels=c("15", "16", "18", "20", "22", "24")))
+```
+
+Plot the human results against the fixed and free RSA results!
+
+```{r}
+d_avg = d %>%
+  group_by(price, model) %>%
+    summarise(m = mean(critical),
+              s=std.error(critical),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+  ungroup()
+  
+d %>%
+  ggplot() +
+    stat_smooth(data = d, aes(x=d$price, y=d$critical), method="lm") +
+    geom_point(data = d_avg, stat="identity", position="dodge", size=4, aes(x=price, y=m, ymax=upper, ymin=lower, color=model)) +
+    geom_errorbar(data = d_avg, width=.1, alpha=1, aes(x=price, y=m, ymax=upper, ymin=lower, color=model)) +
+    ylab("P(A --> A & B)") +
+    xlab("Cost of Deal") +
+    ggtitle("Interpretation") +
+    #coord_cartesian(ylim=c(0,0.8)) +
+    theme(legend.position = 'bottom',
+          axis.text=element_text(size=14),
+          title=element_text(size=14),
+          legend.text=element_text(size=14),
+          axis.title=element_text(size=14),
+          strip.text.x = element_text(size = 14))
+# Savin with device=cairo_pdf can help embed fonts better and may matter for some journal submission!
+#ggsave("./images/interpret.pdf",height=3.5,width=5, device=cairo_pdf)
+#ggsave("./images/interpret.png",height=3.5,width=5)
+
+
+```
+
+## Production
+
+Read in the production data and plot it.
+
+```{r}
+d = read.csv("./data/production.csv", comment = "#", header=F, col.names = c("time", "participant", "controller", "item", "element", "type", "group", "field_name", "field_value"))
+
+d = d %>%
+  mutate(field_name = as.character(field_name)) %>%
+  select(-item, -element, -group) %>%
+  filter(field_name != "_REACTION_TIME_") %>%
+  group_by(time, participant) %>%
+    mutate(condition = type[1]) %>%
+  ungroup() %>%
+  filter(condition != "comprehension") %>%
+  select(-type) %>%
+  mutate(field_name = if_else(field_name == "“both”", "b", field_name)) %>%
+  spread(field_name, field_value) %>%
+  mutate(both = if_else(is.na(both), b, both)) %>%
+  select(-b) %>%
+  separate(condition, sep="-", into=c("world", "price")) %>%
+  select(-time, -participant) %>%
+  mutate(both = as.numeric(as.character(both)),
+         exhaust = as.numeric(as.character(exhaust)),
+         single = as.numeric(as.character(single)),
+          price = as.numeric(as.character(price)),
+         q2 = as.numeric(as.character(price))) %>%
+  filter(q1 == "Alex" & (q2 == price) & nativeq == "yes") %>%
+  select(-controller, -nativeq, -q1, -q2) %>%
+  mutate(both = (both-1)/9,
+         exhaust = (exhaust-1)/9,
+         single = (single-1)/9) %>%
+  mutate(sum = both + exhaust + single) %>%
+  mutate(both = both / sum,
+         exhaust = exhaust / sum,
+         single = single / sum) %>%
+  drop_na() %>%
+  select(-sum) %>%
+  gather(utt, val, both, single, exhaust)
+
+d_means = d %>%
+  group_by(world, price, utt) %>%
+    summarise(m = mean(val),
+              s=std.error(val),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+  ungroup()
+
+d_both = d %>%
+  filter(utt == "both")
+
+d_single = d %>%
+  filter(utt == "single")
+
+d_exhaust = d %>%
+  filter(utt == "exhaust")
+
+d %>%
+  ggplot() +
+    #stat_smooth(data = d_both, aes(x=d$price, y=d$val), method="lm") +
+    geom_point(data = d_means, stat="identity", position="dodge", size=3, aes(x=price, y=m, ymax=upper, ymin=lower, color=utt)) +
+    geom_errorbar(data = d_means, width=.4, alpha=1, size=1, aes(x=price, y=m, ymax=upper, ymin=lower, color=utt)) +
+    ylab("Utterance endorsement") +
+    xlab("Cost of Deal") +
+    ggtitle("Production Experiment") +
+    facet_wrap(~world) +
+    theme(legend.position = 'bottom',
+          axis.text=element_text(size=14),
+          title=element_text(size=14),
+          legend.text=element_text(size=14),
+          axis.title=element_text(size=14),
+          strip.text.x = element_text(size = 14))
+#ggsave("./images/elicitation.png", height=5,width=7)
+
+```
+
+### Statistics
+
+Correlation between the cost of the deal and the utterance endorsement in the production experiment 
+
+```{r}
+d_stat = d %>%
+  filter(utt == "both" & world == "single")
+cor.test(d_stat$price, d_stat$val)
+
+d_stat = d %>%
+  filter(utt == "both" & world == "both")
+cor.test(d_stat$price, d_stat$val)
+
+d_stat = d %>%
+  filter(utt == "single" & world == "single")
+cor.test(d_stat$price, d_stat$val)
+
+d_stat = d %>%
+  filter(utt == "single" & world == "both")
+cor.test(d_stat$price, d_stat$val)
+
+d_stat = d %>%
+  filter(utt == "exhaust" & world == "single")
+cor.test(d_stat$price, d_stat$val)
+
+d_stat = d %>%
+  filter(utt == "exhaust" & world == "both")
+cor.test(d_stat$price, d_stat$val)
+
+
+```
+
+
