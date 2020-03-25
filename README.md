@@ -47,3 +47,26 @@ Contains code for analysis of the restuaurant experiment, investigating the rela
 	
 	• `model_fit.ipynb` is a jupyter notebook. It reads in the textfile model results and saves them as a .csv. In addition, it takes the human results (just hand-coded into the script) and finds the MSE between the human and model for each of the different price points. (N.B. it does not actually save the dataframe with the MSEs. Rather, I just inspect it inside the jupyter notebook.)
 
+## Links to Previous Experiments
+
+### Boxes Experiment
+
+• Priors: http://spellout.net/ibexexps/wilcoxeg/boxes-nonmodal-priors/experiment.html
+
+• Production: http://spellout.net/ibexexps/wilcoxeg/boxes-elicitation/experiment.html
+
+• Interpretation: http://spellout.net/ibexexps/wilcoxeg/boxes-interpretation/experiment.html
+
+### Restuarant Experiment
+
+• Priors: http://spellout.net/ibexexps/wilcoxeg/resto-priors/experiment.html
+
+• Production: http://spellout.net/ibexexps/wilcoxeg/resto-production/experiment.html
+
+• Interpretation: http://spellout.net/ibexexps/wilcoxeg/resto-interpretation/experiment.html
+
+
+
+
+
+
